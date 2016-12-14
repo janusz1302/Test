@@ -1,0 +1,516 @@
+<NewLog>
+<ID>2016/12/12-23:04:03:7064:55341573317</ID>
+<TimeStamp>2016/12/12 - 23:04:03:7094</TimeStamp>
+<Level>Info</Level>
+<Username>Jan</Username>
+<IP>192.168.1.103</IP>
+<Message>Uruchomienie programu</Message>
+<Tag>Aplikacja</Tag>
+<ImgName>Info</ImgName>
+<Status>Notification</Status>
+</NewLog>
+<NewLog>
+<ID>2016/12/12-23:04:04:3445:69048391615</ID>
+<TimeStamp>2016/12/12 - 23:04:04:3445</TimeStamp>
+<Level>Error</Level>
+<Username>Jan</Username>
+<IP>192.168.1.103</IP>
+<Message>Pobranie struktury magazynu</Message>
+<Tag>Baza danych</Tag>
+<ImgName>Error</ImgName>
+<Status>Notification</Status>
+<Exception>
+<Message>Inicjator typów zg³osi³ wyj¹tek dla typu 'OracleDatabase.OracleClient'.</Message>
+<TargetSite>GetStorageStructure</TargetSite>
+<StackTrace>w OracleDatabase.OracleClient.GetStorageStructure()
+   w MagazynZ4.ModelView.GetStorageStructure() w D:\Projekty\AMP\Nowy magazyn\C#_MagazynZ4v2\MagazynZ4_v2\ModelView\ModelView.cs:wiersz 4323</StackTrace>
+<InnerException>System.IO.FileNotFoundException: Nie mo¿na za³adowaæ pliku lub zestawu 'Oracle.DataAccess, Version=4.112.2.0, Culture=neutral, PublicKeyToken=89b483f429c47342' lub jednej z jego zale¿noœci. Nie mo¿na odnaleŸæ okreœlonego pliku.
+Nazwa pliku: 'Oracle.DataAccess, Version=4.112.2.0, Culture=neutral, PublicKeyToken=89b483f429c47342'
+   w OracleDatabase.OracleClient..cctor()
+
+=== Informacje o stanie sprzed powi¹zania ===
+DZIENNIK: DisplayName = Oracle.DataAccess, Version=4.112.2.0, Culture=neutral, PublicKeyToken=89b483f429c47342
+ (Fully-specified)
+DZIENNIK: Appbase = file:///D:/Projekty/AMP/Nowy magazyn/C#_MagazynZ4v2/MagazynZ4_v2/bin/Debug/
+DZIENNIK: Initial PrivatePath = NULL
+Zestaw wywo³uj¹cy: Z4_Magazyn, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null.
+===
+DZIENNIK: to powi¹zanie zaczyna siê w kontekœcie ³adowania default.
+DZIENNIK: u¿ycie pliku konfiguracji aplikacji: D:\Projekty\AMP\Nowy magazyn\C#_MagazynZ4v2\MagazynZ4_v2\bin\Debug\Z4_Magazyn.vshost.exe.Config
+DZIENNIK: u¿ycie pliku konfiguracji hosta: 
+DZIENNIK: u¿ycie pliku konfiguracji komputera z C:\Windows\Microsoft.NET\Framework\v4.0.30319\config\machine.config.
+DZIENNIK: odwo³anie po zastosowaniu zasad: Oracle.DataAccess, Version=4.112.2.0, Culture=neutral, PublicKeyToken=89b483f429c47342
+DZIENNIK: to samo powi¹zanie by³o widoczne wczeœniej i nie powiod³o siê z hr = 0x80070002.
+</InnerException>
+</Exception>
+</NewLog>
+<NewLog>
+<ID>2016/12/12-23:04:04:5755:61821139075</ID>
+<TimeStamp>2016/12/12 - 23:04:04:5755</TimeStamp>
+<Level>Error</Level>
+<Username>Jan</Username>
+<IP>192.168.1.103</IP>
+<Message>Pobranie lokalizacji magazynu</Message>
+<Tag>Baza danych</Tag>
+<ImgName>Error</ImgName>
+<Status>Notification</Status>
+<Exception>
+<Message>Inicjator typów zg³osi³ wyj¹tek dla typu 'OracleDatabase.OracleClient'.</Message>
+<TargetSite>GetStorageStructure</TargetSite>
+<StackTrace>w OracleDatabase.OracleClient.GetStorageLocalizations()
+   w MagazynZ4.ModelView.GetStorageLocalizations() w D:\Projekty\AMP\Nowy magazyn\C#_MagazynZ4v2\MagazynZ4_v2\ModelView\ModelView.cs:wiersz 4344</StackTrace>
+<InnerException>System.IO.FileNotFoundException: Nie mo¿na za³adowaæ pliku lub zestawu 'Oracle.DataAccess, Version=4.112.2.0, Culture=neutral, PublicKeyToken=89b483f429c47342' lub jednej z jego zale¿noœci. Nie mo¿na odnaleŸæ okreœlonego pliku.
+Nazwa pliku: 'Oracle.DataAccess, Version=4.112.2.0, Culture=neutral, PublicKeyToken=89b483f429c47342'
+   w OracleDatabase.OracleClient..cctor()
+
+=== Informacje o stanie sprzed powi¹zania ===
+DZIENNIK: DisplayName = Oracle.DataAccess, Version=4.112.2.0, Culture=neutral, PublicKeyToken=89b483f429c47342
+ (Fully-specified)
+DZIENNIK: Appbase = file:///D:/Projekty/AMP/Nowy magazyn/C#_MagazynZ4v2/MagazynZ4_v2/bin/Debug/
+DZIENNIK: Initial PrivatePath = NULL
+Zestaw wywo³uj¹cy: Z4_Magazyn, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null.
+===
+DZIENNIK: to powi¹zanie zaczyna siê w kontekœcie ³adowania default.
+DZIENNIK: u¿ycie pliku konfiguracji aplikacji: D:\Projekty\AMP\Nowy magazyn\C#_MagazynZ4v2\MagazynZ4_v2\bin\Debug\Z4_Magazyn.vshost.exe.Config
+DZIENNIK: u¿ycie pliku konfiguracji hosta: 
+DZIENNIK: u¿ycie pliku konfiguracji komputera z C:\Windows\Microsoft.NET\Framework\v4.0.30319\config\machine.config.
+DZIENNIK: odwo³anie po zastosowaniu zasad: Oracle.DataAccess, Version=4.112.2.0, Culture=neutral, PublicKeyToken=89b483f429c47342
+DZIENNIK: to samo powi¹zanie by³o widoczne wczeœniej i nie powiod³o siê z hr = 0x80070002.
+</InnerException>
+</Exception>
+</NewLog>
+<NewLog>
+<ID>2016/12/12-23:04:04:6945:50041510476</ID>
+<TimeStamp>2016/12/12 - 23:04:04:6945</TimeStamp>
+<Level>Error</Level>
+<Username>Jan</Username>
+<IP>192.168.1.103</IP>
+<Message>Pobranie wszystkich dostêpnych indeksów paneli oraz ich specyfikacji</Message>
+<Tag>Baza danych</Tag>
+<ImgName>Error</ImgName>
+<Status>Notification</Status>
+<Exception>
+<Message>Inicjator typów zg³osi³ wyj¹tek dla typu 'OracleDatabase.OracleClient'.</Message>
+<TargetSite>GetStorageStructure</TargetSite>
+<StackTrace>w OracleDatabase.OracleClient.GetPanelIndices()
+   w MagazynZ4.ModelView.GetPanelIndices() w D:\Projekty\AMP\Nowy magazyn\C#_MagazynZ4v2\MagazynZ4_v2\ModelView\ModelView.cs:wiersz 4365</StackTrace>
+<InnerException>System.IO.FileNotFoundException: Nie mo¿na za³adowaæ pliku lub zestawu 'Oracle.DataAccess, Version=4.112.2.0, Culture=neutral, PublicKeyToken=89b483f429c47342' lub jednej z jego zale¿noœci. Nie mo¿na odnaleŸæ okreœlonego pliku.
+Nazwa pliku: 'Oracle.DataAccess, Version=4.112.2.0, Culture=neutral, PublicKeyToken=89b483f429c47342'
+   w OracleDatabase.OracleClient..cctor()
+
+=== Informacje o stanie sprzed powi¹zania ===
+DZIENNIK: DisplayName = Oracle.DataAccess, Version=4.112.2.0, Culture=neutral, PublicKeyToken=89b483f429c47342
+ (Fully-specified)
+DZIENNIK: Appbase = file:///D:/Projekty/AMP/Nowy magazyn/C#_MagazynZ4v2/MagazynZ4_v2/bin/Debug/
+DZIENNIK: Initial PrivatePath = NULL
+Zestaw wywo³uj¹cy: Z4_Magazyn, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null.
+===
+DZIENNIK: to powi¹zanie zaczyna siê w kontekœcie ³adowania default.
+DZIENNIK: u¿ycie pliku konfiguracji aplikacji: D:\Projekty\AMP\Nowy magazyn\C#_MagazynZ4v2\MagazynZ4_v2\bin\Debug\Z4_Magazyn.vshost.exe.Config
+DZIENNIK: u¿ycie pliku konfiguracji hosta: 
+DZIENNIK: u¿ycie pliku konfiguracji komputera z C:\Windows\Microsoft.NET\Framework\v4.0.30319\config\machine.config.
+DZIENNIK: odwo³anie po zastosowaniu zasad: Oracle.DataAccess, Version=4.112.2.0, Culture=neutral, PublicKeyToken=89b483f429c47342
+DZIENNIK: to samo powi¹zanie by³o widoczne wczeœniej i nie powiod³o siê z hr = 0x80070002.
+</InnerException>
+</Exception>
+</NewLog>
+<NewLog>
+<ID>2016/12/12-23:05:05:5760:91311041650</ID>
+<TimeStamp>2016/12/12 - 23:05:05:5760</TimeStamp>
+<Level>Info</Level>
+<Username>Jan</Username>
+<IP>192.168.1.103</IP>
+<Message>Nawi¹zanie po³¹czenia ze sterownikiem Beckhoff - NetId: 192.168.8.207.1.1</Message>
+<Tag>PLC</Tag>
+<ImgName>Info</ImgName>
+<Status>Notification</Status>
+</NewLog>
+<NewLog>
+<ID>2016/12/12-23:05:05:9680:31432641905</ID>
+<TimeStamp>2016/12/12 - 23:05:05:9680</TimeStamp>
+<Level>Error</Level>
+<Username>Jan</Username>
+<IP>192.168.1.103</IP>
+<Message>Pobranie lokalizacji magazynu</Message>
+<Tag>Baza danych</Tag>
+<ImgName>Error</ImgName>
+<Status>Notification</Status>
+<Exception>
+<Message>Inicjator typów zg³osi³ wyj¹tek dla typu 'OracleDatabase.OracleClient'.</Message>
+<TargetSite>GetStorageStructure</TargetSite>
+<StackTrace>w OracleDatabase.OracleClient.GetToDoTasks()
+   w MagazynZ4.ModelView.GetToDoTasks() w D:\Projekty\AMP\Nowy magazyn\C#_MagazynZ4v2\MagazynZ4_v2\ModelView\ModelView.cs:wiersz 2801</StackTrace>
+<InnerException>System.IO.FileNotFoundException: Nie mo¿na za³adowaæ pliku lub zestawu 'Oracle.DataAccess, Version=4.112.2.0, Culture=neutral, PublicKeyToken=89b483f429c47342' lub jednej z jego zale¿noœci. Nie mo¿na odnaleŸæ okreœlonego pliku.
+Nazwa pliku: 'Oracle.DataAccess, Version=4.112.2.0, Culture=neutral, PublicKeyToken=89b483f429c47342'
+   w OracleDatabase.OracleClient..cctor()
+
+=== Informacje o stanie sprzed powi¹zania ===
+DZIENNIK: DisplayName = Oracle.DataAccess, Version=4.112.2.0, Culture=neutral, PublicKeyToken=89b483f429c47342
+ (Fully-specified)
+DZIENNIK: Appbase = file:///D:/Projekty/AMP/Nowy magazyn/C#_MagazynZ4v2/MagazynZ4_v2/bin/Debug/
+DZIENNIK: Initial PrivatePath = NULL
+Zestaw wywo³uj¹cy: Z4_Magazyn, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null.
+===
+DZIENNIK: to powi¹zanie zaczyna siê w kontekœcie ³adowania default.
+DZIENNIK: u¿ycie pliku konfiguracji aplikacji: D:\Projekty\AMP\Nowy magazyn\C#_MagazynZ4v2\MagazynZ4_v2\bin\Debug\Z4_Magazyn.vshost.exe.Config
+DZIENNIK: u¿ycie pliku konfiguracji hosta: 
+DZIENNIK: u¿ycie pliku konfiguracji komputera z C:\Windows\Microsoft.NET\Framework\v4.0.30319\config\machine.config.
+DZIENNIK: odwo³anie po zastosowaniu zasad: Oracle.DataAccess, Version=4.112.2.0, Culture=neutral, PublicKeyToken=89b483f429c47342
+DZIENNIK: to samo powi¹zanie by³o widoczne wczeœniej i nie powiod³o siê z hr = 0x80070002.
+</InnerException>
+</Exception>
+</NewLog>
+<NewLog>
+<ID>2016/12/12-23:05:06:3000:45199802621</ID>
+<TimeStamp>2016/12/12 - 23:05:06:3000</TimeStamp>
+<Level>Error</Level>
+<Username>Jan</Username>
+<IP>192.168.1.103</IP>
+<Message>Pobranie zadañ do wykonania</Message>
+<Tag>Baza danych</Tag>
+<ImgName>Error</ImgName>
+<Status>Notification</Status>
+<Exception>
+<Message>Inicjator typów zg³osi³ wyj¹tek dla typu 'OracleDatabase.OracleClient'.</Message>
+<TargetSite>GetStorageStructure</TargetSite>
+<StackTrace>w OracleDatabase.OracleClient.GetPanelIndices()
+   w MagazynZ4.ModelView.GetPanelIndices() w D:\Projekty\AMP\Nowy magazyn\C#_MagazynZ4v2\MagazynZ4_v2\ModelView\ModelView.cs:wiersz 4365</StackTrace>
+<InnerException>System.IO.FileNotFoundException: Nie mo¿na za³adowaæ pliku lub zestawu 'Oracle.DataAccess, Version=4.112.2.0, Culture=neutral, PublicKeyToken=89b483f429c47342' lub jednej z jego zale¿noœci. Nie mo¿na odnaleŸæ okreœlonego pliku.
+Nazwa pliku: 'Oracle.DataAccess, Version=4.112.2.0, Culture=neutral, PublicKeyToken=89b483f429c47342'
+   w OracleDatabase.OracleClient..cctor()
+
+=== Informacje o stanie sprzed powi¹zania ===
+DZIENNIK: DisplayName = Oracle.DataAccess, Version=4.112.2.0, Culture=neutral, PublicKeyToken=89b483f429c47342
+ (Fully-specified)
+DZIENNIK: Appbase = file:///D:/Projekty/AMP/Nowy magazyn/C#_MagazynZ4v2/MagazynZ4_v2/bin/Debug/
+DZIENNIK: Initial PrivatePath = NULL
+Zestaw wywo³uj¹cy: Z4_Magazyn, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null.
+===
+DZIENNIK: to powi¹zanie zaczyna siê w kontekœcie ³adowania default.
+DZIENNIK: u¿ycie pliku konfiguracji aplikacji: D:\Projekty\AMP\Nowy magazyn\C#_MagazynZ4v2\MagazynZ4_v2\bin\Debug\Z4_Magazyn.vshost.exe.Config
+DZIENNIK: u¿ycie pliku konfiguracji hosta: 
+DZIENNIK: u¿ycie pliku konfiguracji komputera z C:\Windows\Microsoft.NET\Framework\v4.0.30319\config\machine.config.
+DZIENNIK: odwo³anie po zastosowaniu zasad: Oracle.DataAccess, Version=4.112.2.0, Culture=neutral, PublicKeyToken=89b483f429c47342
+DZIENNIK: to samo powi¹zanie by³o widoczne wczeœniej i nie powiod³o siê z hr = 0x80070002.
+</InnerException>
+</Exception>
+</NewLog>
+<NewLog>
+<ID>2016/12/12-23:05:06:3070:11894941511</ID>
+<TimeStamp>2016/12/12 - 23:05:06:3070</TimeStamp>
+<Level>Error</Level>
+<Username>Jan</Username>
+<IP>192.168.1.103</IP>
+<Message>Pobranie wszystkich dostêpnych indeksów paneli oraz ich specyfikacji</Message>
+<Tag>Baza danych</Tag>
+<ImgName>Error</ImgName>
+<Status>Notification</Status>
+<Exception>
+<Message>Inicjator typów zg³osi³ wyj¹tek dla typu 'OracleDatabase.OracleClient'.</Message>
+<TargetSite>GetStorageStructure</TargetSite>
+<StackTrace>w OracleDatabase.OracleClient.GetPanelIndices()
+   w MagazynZ4.ModelView.GetPanelIndices() w D:\Projekty\AMP\Nowy magazyn\C#_MagazynZ4v2\MagazynZ4_v2\ModelView\ModelView.cs:wiersz 4365</StackTrace>
+<InnerException>System.IO.FileNotFoundException: Nie mo¿na za³adowaæ pliku lub zestawu 'Oracle.DataAccess, Version=4.112.2.0, Culture=neutral, PublicKeyToken=89b483f429c47342' lub jednej z jego zale¿noœci. Nie mo¿na odnaleŸæ okreœlonego pliku.
+Nazwa pliku: 'Oracle.DataAccess, Version=4.112.2.0, Culture=neutral, PublicKeyToken=89b483f429c47342'
+   w OracleDatabase.OracleClient..cctor()
+
+=== Informacje o stanie sprzed powi¹zania ===
+DZIENNIK: DisplayName = Oracle.DataAccess, Version=4.112.2.0, Culture=neutral, PublicKeyToken=89b483f429c47342
+ (Fully-specified)
+DZIENNIK: Appbase = file:///D:/Projekty/AMP/Nowy magazyn/C#_MagazynZ4v2/MagazynZ4_v2/bin/Debug/
+DZIENNIK: Initial PrivatePath = NULL
+Zestaw wywo³uj¹cy: Z4_Magazyn, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null.
+===
+DZIENNIK: to powi¹zanie zaczyna siê w kontekœcie ³adowania default.
+DZIENNIK: u¿ycie pliku konfiguracji aplikacji: D:\Projekty\AMP\Nowy magazyn\C#_MagazynZ4v2\MagazynZ4_v2\bin\Debug\Z4_Magazyn.vshost.exe.Config
+DZIENNIK: u¿ycie pliku konfiguracji hosta: 
+DZIENNIK: u¿ycie pliku konfiguracji komputera z C:\Windows\Microsoft.NET\Framework\v4.0.30319\config\machine.config.
+DZIENNIK: odwo³anie po zastosowaniu zasad: Oracle.DataAccess, Version=4.112.2.0, Culture=neutral, PublicKeyToken=89b483f429c47342
+DZIENNIK: to samo powi¹zanie by³o widoczne wczeœniej i nie powiod³o siê z hr = 0x80070002.
+</InnerException>
+</Exception>
+</NewLog>
+<NewLog>
+<ID>2016/12/12-23:05:07:4271:17361483505</ID>
+<TimeStamp>2016/12/12 - 23:05:07:4271</TimeStamp>
+<Level>Error</Level>
+<Username>Jan</Username>
+<IP>192.168.1.103</IP>
+<Message>Pobranie zadañ do wykonania</Message>
+<Tag>Baza danych</Tag>
+<ImgName>Error</ImgName>
+<Status>Notification</Status>
+<Exception>
+<Message>Inicjator typów zg³osi³ wyj¹tek dla typu 'OracleDatabase.OracleClient'.</Message>
+<TargetSite>GetStorageStructure</TargetSite>
+<StackTrace>w OracleDatabase.OracleClient.GetToDoTasks()
+   w MagazynZ4.ModelView.GetToDoTasks() w D:\Projekty\AMP\Nowy magazyn\C#_MagazynZ4v2\MagazynZ4_v2\ModelView\ModelView.cs:wiersz 2801</StackTrace>
+<InnerException>System.IO.FileNotFoundException: Nie mo¿na za³adowaæ pliku lub zestawu 'Oracle.DataAccess, Version=4.112.2.0, Culture=neutral, PublicKeyToken=89b483f429c47342' lub jednej z jego zale¿noœci. Nie mo¿na odnaleŸæ okreœlonego pliku.
+Nazwa pliku: 'Oracle.DataAccess, Version=4.112.2.0, Culture=neutral, PublicKeyToken=89b483f429c47342'
+   w OracleDatabase.OracleClient..cctor()
+
+=== Informacje o stanie sprzed powi¹zania ===
+DZIENNIK: DisplayName = Oracle.DataAccess, Version=4.112.2.0, Culture=neutral, PublicKeyToken=89b483f429c47342
+ (Fully-specified)
+DZIENNIK: Appbase = file:///D:/Projekty/AMP/Nowy magazyn/C#_MagazynZ4v2/MagazynZ4_v2/bin/Debug/
+DZIENNIK: Initial PrivatePath = NULL
+Zestaw wywo³uj¹cy: Z4_Magazyn, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null.
+===
+DZIENNIK: to powi¹zanie zaczyna siê w kontekœcie ³adowania default.
+DZIENNIK: u¿ycie pliku konfiguracji aplikacji: D:\Projekty\AMP\Nowy magazyn\C#_MagazynZ4v2\MagazynZ4_v2\bin\Debug\Z4_Magazyn.vshost.exe.Config
+DZIENNIK: u¿ycie pliku konfiguracji hosta: 
+DZIENNIK: u¿ycie pliku konfiguracji komputera z C:\Windows\Microsoft.NET\Framework\v4.0.30319\config\machine.config.
+DZIENNIK: odwo³anie po zastosowaniu zasad: Oracle.DataAccess, Version=4.112.2.0, Culture=neutral, PublicKeyToken=89b483f429c47342
+DZIENNIK: to samo powi¹zanie by³o widoczne wczeœniej i nie powiod³o siê z hr = 0x80070002.
+</InnerException>
+</Exception>
+</NewLog>
+<NewLog>
+<ID>2016/12/12-23:05:07:7261:11146165651</ID>
+<TimeStamp>2016/12/12 - 23:05:07:7261</TimeStamp>
+<Level>Error</Level>
+<Username>Jan</Username>
+<IP>192.168.1.103</IP>
+<Message>B³¹d podczas odczytu danych ze sterownika Omron</Message>
+<Tag>PLC</Tag>
+<ImgName>Error</ImgName>
+<Status>Notification</Status>
+<Exception>
+<Message>Próba po³¹czenia nie powiod³a siê, poniewa¿ po³¹czona strona nie odpowiedzia³a poprawnie po ustalonym okresie czasu lub utworzone po³¹czenie nie powiod³o siê, poniewa¿ po³¹czony host nie odpowiedzia³</Message>
+<TargetSite>ReceiveFrom</TargetSite>
+<StackTrace>w System.Net.Sockets.Socket.ReceiveFrom(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags, EndPoint& remoteEP)
+   w System.Net.Sockets.UdpClient.Receive(IPEndPoint& remoteEP)
+   w PlcOmron.UDP.SendMessage(Byte[] data) w D:\Projekty\AMP\Biblioteki\C#\Plc\PlcOmron\PLC_Omron\Protocols\UDP.cs:wiersz 65
+   w PlcOmron.OmronFinsClient.CheckPlcStatus() w D:\Projekty\AMP\Biblioteki\C#\Plc\PlcOmron\PLC_Omron\MainClass\OmronFinsClient.cs:wiersz 957</StackTrace>
+</Exception>
+</NewLog>
+<NewLog>
+<ID>2016/12/12-23:05:08:4931:05027194440</ID>
+<TimeStamp>2016/12/12 - 23:05:08:4931</TimeStamp>
+<Level>Error</Level>
+<Username>Jan</Username>
+<IP>192.168.1.103</IP>
+<Message>Pobranie zadañ do wykonania</Message>
+<Tag>Baza danych</Tag>
+<ImgName>Error</ImgName>
+<Status>Notification</Status>
+<Exception>
+<Message>Inicjator typów zg³osi³ wyj¹tek dla typu 'OracleDatabase.OracleClient'.</Message>
+<TargetSite>GetStorageStructure</TargetSite>
+<StackTrace>w OracleDatabase.OracleClient.GetToDoTasks()
+   w MagazynZ4.ModelView.GetToDoTasks() w D:\Projekty\AMP\Nowy magazyn\C#_MagazynZ4v2\MagazynZ4_v2\ModelView\ModelView.cs:wiersz 2801</StackTrace>
+<InnerException>System.IO.FileNotFoundException: Nie mo¿na za³adowaæ pliku lub zestawu 'Oracle.DataAccess, Version=4.112.2.0, Culture=neutral, PublicKeyToken=89b483f429c47342' lub jednej z jego zale¿noœci. Nie mo¿na odnaleŸæ okreœlonego pliku.
+Nazwa pliku: 'Oracle.DataAccess, Version=4.112.2.0, Culture=neutral, PublicKeyToken=89b483f429c47342'
+   w OracleDatabase.OracleClient..cctor()
+
+=== Informacje o stanie sprzed powi¹zania ===
+DZIENNIK: DisplayName = Oracle.DataAccess, Version=4.112.2.0, Culture=neutral, PublicKeyToken=89b483f429c47342
+ (Fully-specified)
+DZIENNIK: Appbase = file:///D:/Projekty/AMP/Nowy magazyn/C#_MagazynZ4v2/MagazynZ4_v2/bin/Debug/
+DZIENNIK: Initial PrivatePath = NULL
+Zestaw wywo³uj¹cy: Z4_Magazyn, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null.
+===
+DZIENNIK: to powi¹zanie zaczyna siê w kontekœcie ³adowania default.
+DZIENNIK: u¿ycie pliku konfiguracji aplikacji: D:\Projekty\AMP\Nowy magazyn\C#_MagazynZ4v2\MagazynZ4_v2\bin\Debug\Z4_Magazyn.vshost.exe.Config
+DZIENNIK: u¿ycie pliku konfiguracji hosta: 
+DZIENNIK: u¿ycie pliku konfiguracji komputera z C:\Windows\Microsoft.NET\Framework\v4.0.30319\config\machine.config.
+DZIENNIK: odwo³anie po zastosowaniu zasad: Oracle.DataAccess, Version=4.112.2.0, Culture=neutral, PublicKeyToken=89b483f429c47342
+DZIENNIK: to samo powi¹zanie by³o widoczne wczeœniej i nie powiod³o siê z hr = 0x80070002.
+</InnerException>
+</Exception>
+</NewLog>
+<NewLog>
+<ID>2016/12/12-23:05:08:9162:87891083953</ID>
+<TimeStamp>2016/12/12 - 23:05:08:9162</TimeStamp>
+<Level>Error</Level>
+<Username>Jan</Username>
+<IP>192.168.1.103</IP>
+<Message>B³¹d podczas odczytu danych ze sterownika Omron</Message>
+<Tag>PLC</Tag>
+<ImgName>Error</ImgName>
+<Status>Notification</Status>
+<Exception>
+<Message>Próba po³¹czenia nie powiod³a siê, poniewa¿ po³¹czona strona nie odpowiedzia³a poprawnie po ustalonym okresie czasu lub utworzone po³¹czenie nie powiod³o siê, poniewa¿ po³¹czony host nie odpowiedzia³</Message>
+<TargetSite>ReceiveFrom</TargetSite>
+<StackTrace>w System.Net.Sockets.Socket.ReceiveFrom(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags, EndPoint& remoteEP)
+   w System.Net.Sockets.UdpClient.Receive(IPEndPoint& remoteEP)
+   w PlcOmron.UDP.SendMessage(Byte[] data) w D:\Projekty\AMP\Biblioteki\C#\Plc\PlcOmron\PLC_Omron\Protocols\UDP.cs:wiersz 65
+   w PlcOmron.OmronFinsClient.CheckPlcStatus() w D:\Projekty\AMP\Biblioteki\C#\Plc\PlcOmron\PLC_Omron\MainClass\OmronFinsClient.cs:wiersz 957</StackTrace>
+</Exception>
+</NewLog>
+<NewLog>
+<ID>2016/12/12-23:05:09:5922:71510933311</ID>
+<TimeStamp>2016/12/12 - 23:05:09:5922</TimeStamp>
+<Level>Error</Level>
+<Username>Jan</Username>
+<IP>192.168.1.103</IP>
+<Message>Pobranie zadañ do wykonania</Message>
+<Tag>Baza danych</Tag>
+<ImgName>Error</ImgName>
+<Status>Notification</Status>
+<Exception>
+<Message>Inicjator typów zg³osi³ wyj¹tek dla typu 'OracleDatabase.OracleClient'.</Message>
+<TargetSite>GetStorageStructure</TargetSite>
+<StackTrace>w OracleDatabase.OracleClient.GetToDoTasks()
+   w MagazynZ4.ModelView.GetToDoTasks() w D:\Projekty\AMP\Nowy magazyn\C#_MagazynZ4v2\MagazynZ4_v2\ModelView\ModelView.cs:wiersz 2801</StackTrace>
+<InnerException>System.IO.FileNotFoundException: Nie mo¿na za³adowaæ pliku lub zestawu 'Oracle.DataAccess, Version=4.112.2.0, Culture=neutral, PublicKeyToken=89b483f429c47342' lub jednej z jego zale¿noœci. Nie mo¿na odnaleŸæ okreœlonego pliku.
+Nazwa pliku: 'Oracle.DataAccess, Version=4.112.2.0, Culture=neutral, PublicKeyToken=89b483f429c47342'
+   w OracleDatabase.OracleClient..cctor()
+
+=== Informacje o stanie sprzed powi¹zania ===
+DZIENNIK: DisplayName = Oracle.DataAccess, Version=4.112.2.0, Culture=neutral, PublicKeyToken=89b483f429c47342
+ (Fully-specified)
+DZIENNIK: Appbase = file:///D:/Projekty/AMP/Nowy magazyn/C#_MagazynZ4v2/MagazynZ4_v2/bin/Debug/
+DZIENNIK: Initial PrivatePath = NULL
+Zestaw wywo³uj¹cy: Z4_Magazyn, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null.
+===
+DZIENNIK: to powi¹zanie zaczyna siê w kontekœcie ³adowania default.
+DZIENNIK: u¿ycie pliku konfiguracji aplikacji: D:\Projekty\AMP\Nowy magazyn\C#_MagazynZ4v2\MagazynZ4_v2\bin\Debug\Z4_Magazyn.vshost.exe.Config
+DZIENNIK: u¿ycie pliku konfiguracji hosta: 
+DZIENNIK: u¿ycie pliku konfiguracji komputera z C:\Windows\Microsoft.NET\Framework\v4.0.30319\config\machine.config.
+DZIENNIK: odwo³anie po zastosowaniu zasad: Oracle.DataAccess, Version=4.112.2.0, Culture=neutral, PublicKeyToken=89b483f429c47342
+DZIENNIK: to samo powi¹zanie by³o widoczne wczeœniej i nie powiod³o siê z hr = 0x80070002.
+</InnerException>
+</Exception>
+</NewLog>
+<NewLog>
+<ID>2016/12/12-23:05:10:1322:20658022177</ID>
+<TimeStamp>2016/12/12 - 23:05:10:1322</TimeStamp>
+<Level>Error</Level>
+<Username>Jan</Username>
+<IP>192.168.1.103</IP>
+<Message>B³¹d podczas odczytu danych ze sterownika Omron</Message>
+<Tag>PLC</Tag>
+<ImgName>Error</ImgName>
+<Status>Notification</Status>
+<Exception>
+<Message>Próba po³¹czenia nie powiod³a siê, poniewa¿ po³¹czona strona nie odpowiedzia³a poprawnie po ustalonym okresie czasu lub utworzone po³¹czenie nie powiod³o siê, poniewa¿ po³¹czony host nie odpowiedzia³</Message>
+<TargetSite>ReceiveFrom</TargetSite>
+<StackTrace>w System.Net.Sockets.Socket.ReceiveFrom(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags, EndPoint& remoteEP)
+   w System.Net.Sockets.UdpClient.Receive(IPEndPoint& remoteEP)
+   w PlcOmron.UDP.SendMessage(Byte[] data) w D:\Projekty\AMP\Biblioteki\C#\Plc\PlcOmron\PLC_Omron\Protocols\UDP.cs:wiersz 65
+   w PlcOmron.OmronFinsClient.CheckPlcStatus() w D:\Projekty\AMP\Biblioteki\C#\Plc\PlcOmron\PLC_Omron\MainClass\OmronFinsClient.cs:wiersz 957</StackTrace>
+</Exception>
+</NewLog>
+<NewLog>
+<ID>2016/12/12-23:05:11:2173:63974167918</ID>
+<TimeStamp>2016/12/12 - 23:05:11:2173</TimeStamp>
+<Level>Error</Level>
+<Username>Jan</Username>
+<IP>192.168.1.103</IP>
+<Message>Pobranie zadañ do wykonania</Message>
+<Tag>Baza danych</Tag>
+<ImgName>Error</ImgName>
+<Status>Notification</Status>
+<Exception>
+<Message>Inicjator typów zg³osi³ wyj¹tek dla typu 'OracleDatabase.OracleClient'.</Message>
+<TargetSite>GetStorageStructure</TargetSite>
+<StackTrace>w OracleDatabase.OracleClient.GetToDoTasks()
+   w MagazynZ4.ModelView.GetToDoTasks() w D:\Projekty\AMP\Nowy magazyn\C#_MagazynZ4v2\MagazynZ4_v2\ModelView\ModelView.cs:wiersz 2801</StackTrace>
+<InnerException>System.IO.FileNotFoundException: Nie mo¿na za³adowaæ pliku lub zestawu 'Oracle.DataAccess, Version=4.112.2.0, Culture=neutral, PublicKeyToken=89b483f429c47342' lub jednej z jego zale¿noœci. Nie mo¿na odnaleŸæ okreœlonego pliku.
+Nazwa pliku: 'Oracle.DataAccess, Version=4.112.2.0, Culture=neutral, PublicKeyToken=89b483f429c47342'
+   w OracleDatabase.OracleClient..cctor()
+
+=== Informacje o stanie sprzed powi¹zania ===
+DZIENNIK: DisplayName = Oracle.DataAccess, Version=4.112.2.0, Culture=neutral, PublicKeyToken=89b483f429c47342
+ (Fully-specified)
+DZIENNIK: Appbase = file:///D:/Projekty/AMP/Nowy magazyn/C#_MagazynZ4v2/MagazynZ4_v2/bin/Debug/
+DZIENNIK: Initial PrivatePath = NULL
+Zestaw wywo³uj¹cy: Z4_Magazyn, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null.
+===
+DZIENNIK: to powi¹zanie zaczyna siê w kontekœcie ³adowania default.
+DZIENNIK: u¿ycie pliku konfiguracji aplikacji: D:\Projekty\AMP\Nowy magazyn\C#_MagazynZ4v2\MagazynZ4_v2\bin\Debug\Z4_Magazyn.vshost.exe.Config
+DZIENNIK: u¿ycie pliku konfiguracji hosta: 
+DZIENNIK: u¿ycie pliku konfiguracji komputera z C:\Windows\Microsoft.NET\Framework\v4.0.30319\config\machine.config.
+DZIENNIK: odwo³anie po zastosowaniu zasad: Oracle.DataAccess, Version=4.112.2.0, Culture=neutral, PublicKeyToken=89b483f429c47342
+DZIENNIK: to samo powi¹zanie by³o widoczne wczeœniej i nie powiod³o siê z hr = 0x80070002.
+</InnerException>
+</Exception>
+</NewLog>
+<NewLog>
+<ID>2016/12/12-23:05:11:4033:29457894063</ID>
+<TimeStamp>2016/12/12 - 23:05:11:4033</TimeStamp>
+<Level>Error</Level>
+<Username>Jan</Username>
+<IP>192.168.1.103</IP>
+<Message>B³¹d podczas odczytu danych ze sterownika Omron</Message>
+<Tag>PLC</Tag>
+<ImgName>Error</ImgName>
+<Status>Notification</Status>
+<Exception>
+<Message>Próba po³¹czenia nie powiod³a siê, poniewa¿ po³¹czona strona nie odpowiedzia³a poprawnie po ustalonym okresie czasu lub utworzone po³¹czenie nie powiod³o siê, poniewa¿ po³¹czony host nie odpowiedzia³</Message>
+<TargetSite>ReceiveFrom</TargetSite>
+<StackTrace>w System.Net.Sockets.Socket.ReceiveFrom(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags, EndPoint& remoteEP)
+   w System.Net.Sockets.UdpClient.Receive(IPEndPoint& remoteEP)
+   w PlcOmron.UDP.SendMessage(Byte[] data) w D:\Projekty\AMP\Biblioteki\C#\Plc\PlcOmron\PLC_Omron\Protocols\UDP.cs:wiersz 65
+   w PlcOmron.OmronFinsClient.CheckPlcStatus() w D:\Projekty\AMP\Biblioteki\C#\Plc\PlcOmron\PLC_Omron\MainClass\OmronFinsClient.cs:wiersz 957</StackTrace>
+</Exception>
+</NewLog>
+<NewLog>
+<ID>2016/12/12-23:05:11:7353:77863316536</ID>
+<TimeStamp>2016/12/12 - 23:05:11:7353</TimeStamp>
+<Level>Error</Level>
+<Username>Jan</Username>
+<IP>192.168.1.103</IP>
+<Message>Pobranie lokalizacji magazynu</Message>
+<Tag>Baza danych</Tag>
+<ImgName>Error</ImgName>
+<Status>Notification</Status>
+<Exception>
+<Message>Inicjator typów zg³osi³ wyj¹tek dla typu 'OracleDatabase.OracleClient'.</Message>
+<TargetSite>GetStorageStructure</TargetSite>
+<StackTrace>w OracleDatabase.OracleClient.GetStorageLocalizations()
+   w MagazynZ4.ModelView.GetStorageLocalizations() w D:\Projekty\AMP\Nowy magazyn\C#_MagazynZ4v2\MagazynZ4_v2\ModelView\ModelView.cs:wiersz 4344</StackTrace>
+<InnerException>System.IO.FileNotFoundException: Nie mo¿na za³adowaæ pliku lub zestawu 'Oracle.DataAccess, Version=4.112.2.0, Culture=neutral, PublicKeyToken=89b483f429c47342' lub jednej z jego zale¿noœci. Nie mo¿na odnaleŸæ okreœlonego pliku.
+Nazwa pliku: 'Oracle.DataAccess, Version=4.112.2.0, Culture=neutral, PublicKeyToken=89b483f429c47342'
+   w OracleDatabase.OracleClient..cctor()
+
+=== Informacje o stanie sprzed powi¹zania ===
+DZIENNIK: DisplayName = Oracle.DataAccess, Version=4.112.2.0, Culture=neutral, PublicKeyToken=89b483f429c47342
+ (Fully-specified)
+DZIENNIK: Appbase = file:///D:/Projekty/AMP/Nowy magazyn/C#_MagazynZ4v2/MagazynZ4_v2/bin/Debug/
+DZIENNIK: Initial PrivatePath = NULL
+Zestaw wywo³uj¹cy: Z4_Magazyn, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null.
+===
+DZIENNIK: to powi¹zanie zaczyna siê w kontekœcie ³adowania default.
+DZIENNIK: u¿ycie pliku konfiguracji aplikacji: D:\Projekty\AMP\Nowy magazyn\C#_MagazynZ4v2\MagazynZ4_v2\bin\Debug\Z4_Magazyn.vshost.exe.Config
+DZIENNIK: u¿ycie pliku konfiguracji hosta: 
+DZIENNIK: u¿ycie pliku konfiguracji komputera z C:\Windows\Microsoft.NET\Framework\v4.0.30319\config\machine.config.
+DZIENNIK: odwo³anie po zastosowaniu zasad: Oracle.DataAccess, Version=4.112.2.0, Culture=neutral, PublicKeyToken=89b483f429c47342
+DZIENNIK: to samo powi¹zanie by³o widoczne wczeœniej i nie powiod³o siê z hr = 0x80070002.
+</InnerException>
+</Exception>
+</NewLog>
+<NewLog>
+<ID>2016/12/12-23:05:46:8703:98383012822</ID>
+<TimeStamp>2016/12/12 - 23:05:46:8703</TimeStamp>
+<Level>Error</Level>
+<Username>Jan</Username>
+<IP>192.168.1.103</IP>
+<Message>Pobranie wszystkich dostêpnych indeksów paneli oraz ich specyfikacji</Message>
+<Tag>Baza danych</Tag>
+<ImgName>Error</ImgName>
+<Status>Notification</Status>
+<Exception>
+<Message>Inicjator typów zg³osi³ wyj¹tek dla typu 'OracleDatabase.OracleClient'.</Message>
+<TargetSite>GetStorageStructure</TargetSite>
+<InnerException>System.IO.FileNotFoundException: Nie mo¿na za³adowaæ pliku lub zestawu 'Oracle.DataAccess, Version=4.112.2.0, Culture=neutral, PublicKeyToken=89b483f429c47342' lub jednej z jego zale¿noœci. Nie mo¿na odnaleŸæ okreœlonego pliku.
+Nazwa pliku: 'Oracle.DataAccess, Version=4.112.2.0, Culture=neutral, PublicKeyToken=89b483f429c47342'
+   w OracleDatabase.OracleClient..cctor()
+
+=== Informacje o stanie sprzed powi¹zania ===
+DZIENNIK: DisplayName = Oracle.DataAccess, Version=4.112.2.0, Culture=neutral, PublicKeyToken=89b483f429c47342
+ (Fully-specified)
+DZIENNIK: Appbase = file:///D:/Projekty/AMP/Nowy magazyn/C#_MagazynZ4v2/MagazynZ4_v2/bin/Debug/
+DZIENNIK: Initial PrivatePath = NULL
+Zestaw wywo³uj¹cy: Z4_Magazyn, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null.
+===
+DZIENNIK: to powi¹zanie zaczyna siê w kontekœcie ³adowania default.
+DZIENNIK: u¿ycie pliku konfiguracji aplikacji: D:\Projekty\AMP\Nowy magazyn\C#_MagazynZ4v2\MagazynZ4_v2\bin\Debug\Z4_Magazyn.vshost.exe.Config
+DZIENNIK: u¿ycie pliku konfiguracji hosta: 
+DZIENNIK: u¿ycie pliku konfiguracji komputera z C:\Windows\Microsoft.NET\Framework\v4.0.30319\config\machine.config.
+DZIENNIK: odwo³anie po zastosowaniu zasad: Oracle.DataAccess, Version=4.112.2.0, Culture=neutral, PublicKeyToken=89b483f429c47342
+DZIENNIK: to samo powi¹zanie by³o widoczne wczeœniej i nie powiod³o siê z hr = 0x80070002.
+</InnerException>
+</Exception>
+</NewLog>

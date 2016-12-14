@@ -1,0 +1,251 @@
+C:\Users\j.hornik\Documents\Visual Studio 2015\Projects\MagazynZ4_v2\MagazynZ4_v2\bin\Debug\MagazynZ4_v2.exe.config
+C:\Users\j.hornik\Documents\Visual Studio 2015\Projects\MagazynZ4_v2\MagazynZ4_v2\bin\Debug\MagazynZ4_v2.exe
+C:\Users\j.hornik\Documents\Visual Studio 2015\Projects\MagazynZ4_v2\MagazynZ4_v2\bin\Debug\MagazynZ4_v2.pdb
+C:\Users\j.hornik\Documents\Visual Studio 2015\Projects\MagazynZ4_v2\MagazynZ4_v2\bin\Debug\MahApps.Metro.dll
+C:\Users\j.hornik\Documents\Visual Studio 2015\Projects\MagazynZ4_v2\MagazynZ4_v2\bin\Debug\Oracle.DataAccess.dll
+C:\Users\j.hornik\Documents\Visual Studio 2015\Projects\MagazynZ4_v2\MagazynZ4_v2\bin\Debug\System.Net.Http.dll
+C:\Users\j.hornik\Documents\Visual Studio 2015\Projects\MagazynZ4_v2\MagazynZ4_v2\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\j.hornik\Documents\Visual Studio 2015\Projects\MagazynZ4_v2\MagazynZ4_v2\bin\Debug\MahApps.Metro.pdb
+C:\Users\j.hornik\Documents\Visual Studio 2015\Projects\MagazynZ4_v2\MagazynZ4_v2\bin\Debug\MahApps.Metro.xml
+C:\Users\j.hornik\Documents\Visual Studio 2015\Projects\MagazynZ4_v2\MagazynZ4_v2\bin\Debug\System.Net.Http.xml
+C:\Users\j.hornik\Documents\Visual Studio 2015\Projects\MagazynZ4_v2\MagazynZ4_v2\obj\Debug\App.g.cs
+C:\Users\j.hornik\Documents\Visual Studio 2015\Projects\MagazynZ4_v2\MagazynZ4_v2\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\j.hornik\Documents\Visual Studio 2015\Projects\MagazynZ4_v2\MagazynZ4_v2\obj\Debug\MagazynZ4_v2_MarkupCompile.cache
+C:\Users\j.hornik\Documents\Visual Studio 2015\Projects\MagazynZ4_v2\MagazynZ4_v2\obj\Debug\MagazynZ4_v2_MarkupCompile.lref
+C:\Users\j.hornik\Documents\Visual Studio 2015\Projects\MagazynZ4_v2\MagazynZ4_v2\obj\Debug\App.baml
+C:\Users\j.hornik\Documents\Visual Studio 2015\Projects\MagazynZ4_v2\MagazynZ4_v2\obj\Debug\UserControls\Styles\UserControlStyles.baml
+C:\Users\j.hornik\Documents\Visual Studio 2015\Projects\MagazynZ4_v2\MagazynZ4_v2\obj\Debug\MagazynZ4_v2.g.resources
+C:\Users\j.hornik\Documents\Visual Studio 2015\Projects\MagazynZ4_v2\MagazynZ4_v2\obj\Debug\MagazynZ4.Properties.Resources.resources
+C:\Users\j.hornik\Documents\Visual Studio 2015\Projects\MagazynZ4_v2\MagazynZ4_v2\obj\Debug\MagazynZ4_v2.csproj.GenerateResource.Cache
+C:\Users\j.hornik\Documents\Visual Studio 2015\Projects\MagazynZ4_v2\MagazynZ4_v2\obj\Debug\MagazynZ4_v2.exe
+C:\Users\j.hornik\Documents\Visual Studio 2015\Projects\MagazynZ4_v2\MagazynZ4_v2\obj\Debug\MagazynZ4_v2.pdb
+C:\Users\j.hornik\Documents\Visual Studio 2015\Projects\MagazynZ4_v2\MagazynZ4_v2\obj\Debug\MagazynZ4_v2.csprojResolveAssemblyReference.cache
+C:\Users\j.hornik\Documents\Visual Studio 2015\Projects\MagazynZ4_v2\MagazynZ4_v2\bin\Debug\TwinCAT.Ads.dll
+C:\Users\j.hornik\Documents\Visual Studio 2015\Projects\MagazynZ4_v2\MagazynZ4_v2\bin\Debug\TwinCAT.Ads.xml
+C:\Users\j.hornik\Documents\Visual Studio 2015\Projects\MagazynZ4_v2\MagazynZ4_v2\bin\Debug\PlcOmron.dll
+C:\Users\j.hornik\Documents\Visual Studio 2015\Projects\MagazynZ4_v2\MagazynZ4_v2\bin\Debug\PlcOmron.pdb
+C:\Users\j.hornik\Documents\Visual Studio 2015\Projects\MagazynZ4_v2\MagazynZ4_v2\obj\Debug\View\MainWindow.g.cs
+C:\Users\j.hornik\Documents\Visual Studio 2015\Projects\MagazynZ4_v2\MagazynZ4_v2\obj\Debug\View\MainWindow.baml
+C:\Users\j.hornik\Documents\Visual Studio 2015\Projects\MagazynZ4_v2\MagazynZ4_v2\obj\Debug\MagazynZ4_v2.csproj.App.config
+C:\Users\j.hornik\Documents\Visual Studio 2015\Projects\MagazynZ4_v2\MagazynZ4_v2\bin\Debug\Microsoft.Threading.Tasks.dll
+C:\Users\j.hornik\Documents\Visual Studio 2015\Projects\MagazynZ4_v2\MagazynZ4_v2\bin\Debug\Microsoft.Threading.Tasks.Extensions.Desktop.dll
+C:\Users\j.hornik\Documents\Visual Studio 2015\Projects\MagazynZ4_v2\MagazynZ4_v2\bin\Debug\Microsoft.Threading.Tasks.Extensions.dll
+C:\Users\j.hornik\Documents\Visual Studio 2015\Projects\MagazynZ4_v2\MagazynZ4_v2\bin\Debug\System.IO.dll
+C:\Users\j.hornik\Documents\Visual Studio 2015\Projects\MagazynZ4_v2\MagazynZ4_v2\bin\Debug\System.Runtime.dll
+C:\Users\j.hornik\Documents\Visual Studio 2015\Projects\MagazynZ4_v2\MagazynZ4_v2\bin\Debug\System.Threading.Tasks.dll
+C:\Users\j.hornik\Documents\Visual Studio 2015\Projects\MagazynZ4_v2\MagazynZ4_v2\bin\Debug\Microsoft.Threading.Tasks.xml
+C:\Users\j.hornik\Documents\Visual Studio 2015\Projects\MagazynZ4_v2\MagazynZ4_v2\bin\Debug\Microsoft.Threading.Tasks.Extensions.xml
+C:\Users\j.hornik\Documents\Visual Studio 2015\Projects\MagazynZ4_v2\MagazynZ4_v2\bin\Debug\Microsoft.Threading.Tasks.Extensions.Desktop.xml
+C:\Users\j.hornik\Documents\Visual Studio 2015\Projects\MagazynZ4_v2\MagazynZ4_v2\bin\Debug\System.IO.xml
+C:\Users\j.hornik\Documents\Visual Studio 2015\Projects\MagazynZ4_v2\MagazynZ4_v2\bin\Debug\System.Runtime.xml
+C:\Users\j.hornik\Documents\Visual Studio 2015\Projects\MagazynZ4_v2\MagazynZ4_v2\bin\Debug\System.Threading.Tasks.xml
+C:\Users\j.hornik\Desktop\Praca - aplikacje\Aplikacje C#\MagazynZ4_v2\MagazynZ4_v2\bin\Debug\MagazynZ4_v2.exe.config
+C:\Users\j.hornik\Desktop\Praca - aplikacje\Aplikacje C#\MagazynZ4_v2\MagazynZ4_v2\bin\Debug\MagazynZ4_v2.exe
+C:\Users\j.hornik\Desktop\Praca - aplikacje\Aplikacje C#\MagazynZ4_v2\MagazynZ4_v2\bin\Debug\MagazynZ4_v2.pdb
+C:\Users\j.hornik\Desktop\Praca - aplikacje\Aplikacje C#\MagazynZ4_v2\MagazynZ4_v2\bin\Debug\MahApps.Metro.dll
+C:\Users\j.hornik\Desktop\Praca - aplikacje\Aplikacje C#\MagazynZ4_v2\MagazynZ4_v2\bin\Debug\Microsoft.Threading.Tasks.dll
+C:\Users\j.hornik\Desktop\Praca - aplikacje\Aplikacje C#\MagazynZ4_v2\MagazynZ4_v2\bin\Debug\Microsoft.Threading.Tasks.Extensions.Desktop.dll
+C:\Users\j.hornik\Desktop\Praca - aplikacje\Aplikacje C#\MagazynZ4_v2\MagazynZ4_v2\bin\Debug\Microsoft.Threading.Tasks.Extensions.dll
+C:\Users\j.hornik\Desktop\Praca - aplikacje\Aplikacje C#\MagazynZ4_v2\MagazynZ4_v2\bin\Debug\Oracle.DataAccess.dll
+C:\Users\j.hornik\Desktop\Praca - aplikacje\Aplikacje C#\MagazynZ4_v2\MagazynZ4_v2\bin\Debug\PlcOmron.dll
+C:\Users\j.hornik\Desktop\Praca - aplikacje\Aplikacje C#\MagazynZ4_v2\MagazynZ4_v2\bin\Debug\System.IO.dll
+C:\Users\j.hornik\Desktop\Praca - aplikacje\Aplikacje C#\MagazynZ4_v2\MagazynZ4_v2\bin\Debug\System.Net.Http.dll
+C:\Users\j.hornik\Desktop\Praca - aplikacje\Aplikacje C#\MagazynZ4_v2\MagazynZ4_v2\bin\Debug\System.Runtime.dll
+C:\Users\j.hornik\Desktop\Praca - aplikacje\Aplikacje C#\MagazynZ4_v2\MagazynZ4_v2\bin\Debug\System.Threading.Tasks.dll
+C:\Users\j.hornik\Desktop\Praca - aplikacje\Aplikacje C#\MagazynZ4_v2\MagazynZ4_v2\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\j.hornik\Desktop\Praca - aplikacje\Aplikacje C#\MagazynZ4_v2\MagazynZ4_v2\bin\Debug\TwinCAT.Ads.dll
+C:\Users\j.hornik\Desktop\Praca - aplikacje\Aplikacje C#\MagazynZ4_v2\MagazynZ4_v2\bin\Debug\PlcOmron.pdb
+C:\Users\j.hornik\Desktop\Praca - aplikacje\Aplikacje C#\MagazynZ4_v2\MagazynZ4_v2\bin\Debug\MahApps.Metro.pdb
+C:\Users\j.hornik\Desktop\Praca - aplikacje\Aplikacje C#\MagazynZ4_v2\MagazynZ4_v2\bin\Debug\MahApps.Metro.xml
+C:\Users\j.hornik\Desktop\Praca - aplikacje\Aplikacje C#\MagazynZ4_v2\MagazynZ4_v2\bin\Debug\Microsoft.Threading.Tasks.xml
+C:\Users\j.hornik\Desktop\Praca - aplikacje\Aplikacje C#\MagazynZ4_v2\MagazynZ4_v2\bin\Debug\Microsoft.Threading.Tasks.Extensions.xml
+C:\Users\j.hornik\Desktop\Praca - aplikacje\Aplikacje C#\MagazynZ4_v2\MagazynZ4_v2\bin\Debug\Microsoft.Threading.Tasks.Extensions.Desktop.xml
+C:\Users\j.hornik\Desktop\Praca - aplikacje\Aplikacje C#\MagazynZ4_v2\MagazynZ4_v2\bin\Debug\System.IO.xml
+C:\Users\j.hornik\Desktop\Praca - aplikacje\Aplikacje C#\MagazynZ4_v2\MagazynZ4_v2\bin\Debug\System.Runtime.xml
+C:\Users\j.hornik\Desktop\Praca - aplikacje\Aplikacje C#\MagazynZ4_v2\MagazynZ4_v2\bin\Debug\System.Threading.Tasks.xml
+C:\Users\j.hornik\Desktop\Praca - aplikacje\Aplikacje C#\MagazynZ4_v2\MagazynZ4_v2\bin\Debug\System.Net.Http.xml
+C:\Users\j.hornik\Desktop\Praca - aplikacje\Aplikacje C#\MagazynZ4_v2\MagazynZ4_v2\bin\Debug\TwinCAT.Ads.xml
+C:\Users\j.hornik\Desktop\Praca - aplikacje\Aplikacje C#\MagazynZ4_v2\MagazynZ4_v2\obj\Debug\MagazynZ4_v2.csproj.App.config
+C:\Users\j.hornik\Desktop\Praca - aplikacje\Aplikacje C#\MagazynZ4_v2\MagazynZ4_v2\obj\Debug\MagazynZ4_v2.csprojResolveAssemblyReference.cache
+C:\Users\j.hornik\Desktop\Praca - aplikacje\Aplikacje C#\MagazynZ4_v2\MagazynZ4_v2\obj\Debug\View\MainWindow.g.cs
+C:\Users\j.hornik\Desktop\Praca - aplikacje\Aplikacje C#\MagazynZ4_v2\MagazynZ4_v2\obj\Debug\App.g.cs
+C:\Users\j.hornik\Desktop\Praca - aplikacje\Aplikacje C#\MagazynZ4_v2\MagazynZ4_v2\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\j.hornik\Desktop\Praca - aplikacje\Aplikacje C#\MagazynZ4_v2\MagazynZ4_v2\obj\Debug\MagazynZ4_v2_MarkupCompile.cache
+C:\Users\j.hornik\Desktop\Praca - aplikacje\Aplikacje C#\MagazynZ4_v2\MagazynZ4_v2\obj\Debug\MagazynZ4_v2_MarkupCompile.lref
+C:\Users\j.hornik\Desktop\Praca - aplikacje\Aplikacje C#\MagazynZ4_v2\MagazynZ4_v2\obj\Debug\App.baml
+C:\Users\j.hornik\Desktop\Praca - aplikacje\Aplikacje C#\MagazynZ4_v2\MagazynZ4_v2\obj\Debug\View\MainWindow.baml
+C:\Users\j.hornik\Desktop\Praca - aplikacje\Aplikacje C#\MagazynZ4_v2\MagazynZ4_v2\obj\Debug\UserControls\Styles\UserControlStyles.baml
+C:\Users\j.hornik\Desktop\Praca - aplikacje\Aplikacje C#\MagazynZ4_v2\MagazynZ4_v2\obj\Debug\MagazynZ4_v2.g.resources
+C:\Users\j.hornik\Desktop\Praca - aplikacje\Aplikacje C#\MagazynZ4_v2\MagazynZ4_v2\obj\Debug\MagazynZ4.Properties.Resources.resources
+C:\Users\j.hornik\Desktop\Praca - aplikacje\Aplikacje C#\MagazynZ4_v2\MagazynZ4_v2\obj\Debug\MagazynZ4_v2.csproj.GenerateResource.Cache
+C:\Users\j.hornik\Desktop\Praca - aplikacje\Aplikacje C#\MagazynZ4_v2\MagazynZ4_v2\obj\Debug\MagazynZ4_v2.exe
+C:\Users\j.hornik\Desktop\Praca - aplikacje\Aplikacje C#\MagazynZ4_v2\MagazynZ4_v2\obj\Debug\MagazynZ4_v2.pdb
+C:\Users\j.hornik\Desktop\Praca - aplikacje\Aplikacje PLC\K006 - Automatyczny magazyn paneli\C#_MagazynZ4\MagazynZ4_v2\bin\Debug\MagazynZ4_v2.exe.config
+C:\Users\j.hornik\Desktop\Praca - aplikacje\Aplikacje PLC\K006 - Automatyczny magazyn paneli\C#_MagazynZ4\MagazynZ4_v2\obj\Debug\MagazynZ4_v2.exe
+C:\Users\j.hornik\Desktop\Praca - aplikacje\Aplikacje PLC\K006 - Automatyczny magazyn paneli\C#_MagazynZ4\MagazynZ4_v2\obj\Debug\MagazynZ4_v2.pdb
+C:\Users\j.hornik\Desktop\Praca - aplikacje\Aplikacje PLC\K006 - Automatyczny magazyn paneli\C#_MagazynZ4\MagazynZ4_v2\bin\Debug\MagazynZ4_v2.exe
+C:\Users\j.hornik\Desktop\Praca - aplikacje\Aplikacje PLC\K006 - Automatyczny magazyn paneli\C#_MagazynZ4\MagazynZ4_v2\bin\Debug\MagazynZ4_v2.pdb
+C:\Users\j.hornik\Desktop\Praca - aplikacje\Aplikacje PLC\K006 - Automatyczny magazyn paneli\C#_MagazynZ4\MagazynZ4_v2\bin\Debug\MahApps.Metro.dll
+C:\Users\j.hornik\Desktop\Praca - aplikacje\Aplikacje PLC\K006 - Automatyczny magazyn paneli\C#_MagazynZ4\MagazynZ4_v2\bin\Debug\Microsoft.Threading.Tasks.dll
+C:\Users\j.hornik\Desktop\Praca - aplikacje\Aplikacje PLC\K006 - Automatyczny magazyn paneli\C#_MagazynZ4\MagazynZ4_v2\bin\Debug\Microsoft.Threading.Tasks.Extensions.Desktop.dll
+C:\Users\j.hornik\Desktop\Praca - aplikacje\Aplikacje PLC\K006 - Automatyczny magazyn paneli\C#_MagazynZ4\MagazynZ4_v2\bin\Debug\Microsoft.Threading.Tasks.Extensions.dll
+C:\Users\j.hornik\Desktop\Praca - aplikacje\Aplikacje PLC\K006 - Automatyczny magazyn paneli\C#_MagazynZ4\MagazynZ4_v2\bin\Debug\PlcOmron.dll
+C:\Users\j.hornik\Desktop\Praca - aplikacje\Aplikacje PLC\K006 - Automatyczny magazyn paneli\C#_MagazynZ4\MagazynZ4_v2\bin\Debug\System.IO.dll
+C:\Users\j.hornik\Desktop\Praca - aplikacje\Aplikacje PLC\K006 - Automatyczny magazyn paneli\C#_MagazynZ4\MagazynZ4_v2\bin\Debug\System.Net.Http.dll
+C:\Users\j.hornik\Desktop\Praca - aplikacje\Aplikacje PLC\K006 - Automatyczny magazyn paneli\C#_MagazynZ4\MagazynZ4_v2\bin\Debug\System.Runtime.dll
+C:\Users\j.hornik\Desktop\Praca - aplikacje\Aplikacje PLC\K006 - Automatyczny magazyn paneli\C#_MagazynZ4\MagazynZ4_v2\bin\Debug\System.Threading.Tasks.dll
+C:\Users\j.hornik\Desktop\Praca - aplikacje\Aplikacje PLC\K006 - Automatyczny magazyn paneli\C#_MagazynZ4\MagazynZ4_v2\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\j.hornik\Desktop\Praca - aplikacje\Aplikacje PLC\K006 - Automatyczny magazyn paneli\C#_MagazynZ4\MagazynZ4_v2\bin\Debug\MahApps.Metro.pdb
+C:\Users\j.hornik\Desktop\Praca - aplikacje\Aplikacje PLC\K006 - Automatyczny magazyn paneli\C#_MagazynZ4\MagazynZ4_v2\bin\Debug\MahApps.Metro.xml
+C:\Users\j.hornik\Desktop\Praca - aplikacje\Aplikacje PLC\K006 - Automatyczny magazyn paneli\C#_MagazynZ4\MagazynZ4_v2\bin\Debug\Microsoft.Threading.Tasks.xml
+C:\Users\j.hornik\Desktop\Praca - aplikacje\Aplikacje PLC\K006 - Automatyczny magazyn paneli\C#_MagazynZ4\MagazynZ4_v2\bin\Debug\Microsoft.Threading.Tasks.Extensions.xml
+C:\Users\j.hornik\Desktop\Praca - aplikacje\Aplikacje PLC\K006 - Automatyczny magazyn paneli\C#_MagazynZ4\MagazynZ4_v2\bin\Debug\Microsoft.Threading.Tasks.Extensions.Desktop.xml
+C:\Users\j.hornik\Desktop\Praca - aplikacje\Aplikacje PLC\K006 - Automatyczny magazyn paneli\C#_MagazynZ4\MagazynZ4_v2\bin\Debug\PlcOmron.pdb
+C:\Users\j.hornik\Desktop\Praca - aplikacje\Aplikacje PLC\K006 - Automatyczny magazyn paneli\C#_MagazynZ4\MagazynZ4_v2\bin\Debug\System.IO.xml
+C:\Users\j.hornik\Desktop\Praca - aplikacje\Aplikacje PLC\K006 - Automatyczny magazyn paneli\C#_MagazynZ4\MagazynZ4_v2\bin\Debug\System.Runtime.xml
+C:\Users\j.hornik\Desktop\Praca - aplikacje\Aplikacje PLC\K006 - Automatyczny magazyn paneli\C#_MagazynZ4\MagazynZ4_v2\bin\Debug\System.Threading.Tasks.xml
+C:\Users\j.hornik\Desktop\Praca - aplikacje\Aplikacje PLC\K006 - Automatyczny magazyn paneli\C#_MagazynZ4\MagazynZ4_v2\bin\Debug\System.Net.Http.xml
+C:\Users\j.hornik\Desktop\Praca - aplikacje\Aplikacje PLC\K006 - Automatyczny magazyn paneli\C#_MagazynZ4\MagazynZ4_v2\obj\Debug\MagazynZ4_v2.csproj.App.config
+C:\Users\j.hornik\Desktop\Praca - aplikacje\Aplikacje PLC\K006 - Automatyczny magazyn paneli\C#_MagazynZ4\MagazynZ4_v2\obj\Debug\MagazynZ4_v2.csprojResolveAssemblyReference.cache
+C:\Users\j.hornik\Desktop\Praca - aplikacje\Aplikacje PLC\K006 - Automatyczny magazyn paneli\C#_MagazynZ4\MagazynZ4_v2\obj\Debug\View\MainWindow.g.cs
+C:\Users\j.hornik\Desktop\Praca - aplikacje\Aplikacje PLC\K006 - Automatyczny magazyn paneli\C#_MagazynZ4\MagazynZ4_v2\obj\Debug\App.g.cs
+C:\Users\j.hornik\Desktop\Praca - aplikacje\Aplikacje PLC\K006 - Automatyczny magazyn paneli\C#_MagazynZ4\MagazynZ4_v2\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\j.hornik\Desktop\Praca - aplikacje\Aplikacje PLC\K006 - Automatyczny magazyn paneli\C#_MagazynZ4\MagazynZ4_v2\obj\Debug\MagazynZ4_v2_MarkupCompile.cache
+C:\Users\j.hornik\Desktop\Praca - aplikacje\Aplikacje PLC\K006 - Automatyczny magazyn paneli\C#_MagazynZ4\MagazynZ4_v2\obj\Debug\MagazynZ4_v2_MarkupCompile.lref
+C:\Users\j.hornik\Desktop\Praca - aplikacje\Aplikacje PLC\K006 - Automatyczny magazyn paneli\C#_MagazynZ4\MagazynZ4_v2\obj\Debug\App.baml
+C:\Users\j.hornik\Desktop\Praca - aplikacje\Aplikacje PLC\K006 - Automatyczny magazyn paneli\C#_MagazynZ4\MagazynZ4_v2\obj\Debug\View\MainWindow.baml
+C:\Users\j.hornik\Desktop\Praca - aplikacje\Aplikacje PLC\K006 - Automatyczny magazyn paneli\C#_MagazynZ4\MagazynZ4_v2\obj\Debug\UserControls\Styles\UserControlStyles.baml
+C:\Users\j.hornik\Desktop\Praca - aplikacje\Aplikacje PLC\K006 - Automatyczny magazyn paneli\C#_MagazynZ4\MagazynZ4_v2\obj\Debug\MagazynZ4_v2.g.resources
+C:\Users\j.hornik\Desktop\Praca - aplikacje\Aplikacje PLC\K006 - Automatyczny magazyn paneli\C#_MagazynZ4\MagazynZ4_v2\obj\Debug\MagazynZ4.Properties.Resources.resources
+C:\Users\j.hornik\Desktop\Praca - aplikacje\Aplikacje PLC\K006 - Automatyczny magazyn paneli\C#_MagazynZ4\MagazynZ4_v2\obj\Debug\MagazynZ4_v2.csproj.GenerateResource.Cache
+D:\Projekty\K006 - Automatyczny magazyn paneli\C#_MagazynZ4\MagazynZ4_v2\bin\Debug\MagazynZ4_v2.exe.config
+D:\Projekty\K006 - Automatyczny magazyn paneli\C#_MagazynZ4\MagazynZ4_v2\obj\Debug\MagazynZ4_v2.exe
+D:\Projekty\K006 - Automatyczny magazyn paneli\C#_MagazynZ4\MagazynZ4_v2\obj\Debug\MagazynZ4_v2.pdb
+C:\Users\j.hornik\Desktop\Praca - aplikacje\Aplikacje PLC\K006 - Automatyczny magazyn paneli\Nowy magazyn\C#_MagazynZ4\MagazynZ4_v2\bin\Debug\MagazynZ4_v2.exe.config
+C:\Users\j.hornik\Desktop\Praca - aplikacje\Aplikacje PLC\K006 - Automatyczny magazyn paneli\Nowy magazyn\C#_MagazynZ4\MagazynZ4_v2\obj\Debug\MagazynZ4_v2.exe
+C:\Users\j.hornik\Desktop\Praca - aplikacje\Aplikacje PLC\K006 - Automatyczny magazyn paneli\Nowy magazyn\C#_MagazynZ4\MagazynZ4_v2\obj\Debug\MagazynZ4_v2.pdb
+D:\Projekty\K006 - Automatyczny Magazyn Paneli\Nowy magazyn\C#_MagazynZ4v2\MagazynZ4_v2\bin\Debug\MagazynZ4_v2.exe.config
+D:\Projekty\K006 - Automatyczny Magazyn Paneli\Nowy magazyn\C#_MagazynZ4v2\MagazynZ4_v2\bin\Debug\MagazynZ4_v2.exe
+D:\Projekty\K006 - Automatyczny Magazyn Paneli\Nowy magazyn\C#_MagazynZ4v2\MagazynZ4_v2\bin\Debug\MagazynZ4_v2.pdb
+D:\Projekty\K006 - Automatyczny Magazyn Paneli\Nowy magazyn\C#_MagazynZ4v2\MagazynZ4_v2\bin\Debug\JLogger.dll
+D:\Projekty\K006 - Automatyczny Magazyn Paneli\Nowy magazyn\C#_MagazynZ4v2\MagazynZ4_v2\bin\Debug\MahApps.Metro.dll
+D:\Projekty\K006 - Automatyczny Magazyn Paneli\Nowy magazyn\C#_MagazynZ4v2\MagazynZ4_v2\bin\Debug\PlcOmron.dll
+D:\Projekty\K006 - Automatyczny Magazyn Paneli\Nowy magazyn\C#_MagazynZ4v2\MagazynZ4_v2\bin\Debug\PlcVariables.dll
+D:\Projekty\K006 - Automatyczny Magazyn Paneli\Nowy magazyn\C#_MagazynZ4v2\MagazynZ4_v2\bin\Debug\System.Windows.Interactivity.dll
+D:\Projekty\K006 - Automatyczny Magazyn Paneli\Nowy magazyn\C#_MagazynZ4v2\MagazynZ4_v2\bin\Debug\TwinCAT.Ads.dll
+D:\Projekty\K006 - Automatyczny Magazyn Paneli\Nowy magazyn\C#_MagazynZ4v2\MagazynZ4_v2\bin\Debug\JLogger.pdb
+D:\Projekty\K006 - Automatyczny Magazyn Paneli\Nowy magazyn\C#_MagazynZ4v2\MagazynZ4_v2\bin\Debug\PlcOmron.pdb
+D:\Projekty\K006 - Automatyczny Magazyn Paneli\Nowy magazyn\C#_MagazynZ4v2\MagazynZ4_v2\bin\Debug\PlcVariables.pdb
+D:\Projekty\K006 - Automatyczny Magazyn Paneli\Nowy magazyn\C#_MagazynZ4v2\MagazynZ4_v2\bin\Debug\MahApps.Metro.pdb
+D:\Projekty\K006 - Automatyczny Magazyn Paneli\Nowy magazyn\C#_MagazynZ4v2\MagazynZ4_v2\bin\Debug\MahApps.Metro.xml
+D:\Projekty\K006 - Automatyczny Magazyn Paneli\Nowy magazyn\C#_MagazynZ4v2\MagazynZ4_v2\obj\Debug\MagazynZ4_v2.csprojResolveAssemblyReference.cache
+D:\Projekty\K006 - Automatyczny Magazyn Paneli\Nowy magazyn\C#_MagazynZ4v2\MagazynZ4_v2\obj\Debug\View\MainWindow.g.cs
+D:\Projekty\K006 - Automatyczny Magazyn Paneli\Nowy magazyn\C#_MagazynZ4v2\MagazynZ4_v2\obj\Debug\App.g.cs
+D:\Projekty\K006 - Automatyczny Magazyn Paneli\Nowy magazyn\C#_MagazynZ4v2\MagazynZ4_v2\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\Projekty\K006 - Automatyczny Magazyn Paneli\Nowy magazyn\C#_MagazynZ4v2\MagazynZ4_v2\obj\Debug\MagazynZ4_v2_MarkupCompile.cache
+D:\Projekty\K006 - Automatyczny Magazyn Paneli\Nowy magazyn\C#_MagazynZ4v2\MagazynZ4_v2\obj\Debug\MagazynZ4_v2_MarkupCompile.lref
+D:\Projekty\K006 - Automatyczny Magazyn Paneli\Nowy magazyn\C#_MagazynZ4v2\MagazynZ4_v2\obj\Debug\App.baml
+D:\Projekty\K006 - Automatyczny Magazyn Paneli\Nowy magazyn\C#_MagazynZ4v2\MagazynZ4_v2\obj\Debug\View\MainWindow.baml
+D:\Projekty\K006 - Automatyczny Magazyn Paneli\Nowy magazyn\C#_MagazynZ4v2\MagazynZ4_v2\obj\Debug\UserControls\Styles\UserControlStyles.baml
+D:\Projekty\K006 - Automatyczny Magazyn Paneli\Nowy magazyn\C#_MagazynZ4v2\MagazynZ4_v2\obj\Debug\MagazynZ4_v2.g.resources
+D:\Projekty\K006 - Automatyczny Magazyn Paneli\Nowy magazyn\C#_MagazynZ4v2\MagazynZ4_v2\obj\Debug\MagazynZ4.Properties.Resources.resources
+D:\Projekty\K006 - Automatyczny Magazyn Paneli\Nowy magazyn\C#_MagazynZ4v2\MagazynZ4_v2\obj\Debug\MagazynZ4_v2.csproj.GenerateResource.Cache
+D:\Projekty\K006 - Automatyczny Magazyn Paneli\Nowy magazyn\C#_MagazynZ4v2\MagazynZ4_v2\obj\Debug\MagazynZ4_v2.exe
+D:\Projekty\K006 - Automatyczny Magazyn Paneli\Nowy magazyn\C#_MagazynZ4v2\MagazynZ4_v2\obj\Debug\MagazynZ4_v2.pdb
+C:\Users\Jan\Documents\k006-automatyczny-magazyn-paneli\Nowy magazyn\C#_MagazynZ4v2\MagazynZ4_v2\bin\Debug\Z4_Magazyn.exe.config
+C:\Users\Jan\Documents\k006-automatyczny-magazyn-paneli\Nowy magazyn\C#_MagazynZ4v2\MagazynZ4_v2\bin\Debug\Z4_Magazyn.exe
+C:\Users\Jan\Documents\k006-automatyczny-magazyn-paneli\Nowy magazyn\C#_MagazynZ4v2\MagazynZ4_v2\bin\Debug\Z4_Magazyn.pdb
+C:\Users\Jan\Documents\k006-automatyczny-magazyn-paneli\Nowy magazyn\C#_MagazynZ4v2\MagazynZ4_v2\bin\Debug\JLogger.dll
+C:\Users\Jan\Documents\k006-automatyczny-magazyn-paneli\Nowy magazyn\C#_MagazynZ4v2\MagazynZ4_v2\bin\Debug\MahApps.Metro.dll
+C:\Users\Jan\Documents\k006-automatyczny-magazyn-paneli\Nowy magazyn\C#_MagazynZ4v2\MagazynZ4_v2\bin\Debug\PlcOmron.dll
+C:\Users\Jan\Documents\k006-automatyczny-magazyn-paneli\Nowy magazyn\C#_MagazynZ4v2\MagazynZ4_v2\bin\Debug\PlcVariables.dll
+C:\Users\Jan\Documents\k006-automatyczny-magazyn-paneli\Nowy magazyn\C#_MagazynZ4v2\MagazynZ4_v2\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\Jan\Documents\k006-automatyczny-magazyn-paneli\Nowy magazyn\C#_MagazynZ4v2\MagazynZ4_v2\bin\Debug\TwinCAT.Ads.dll
+C:\Users\Jan\Documents\k006-automatyczny-magazyn-paneli\Nowy magazyn\C#_MagazynZ4v2\MagazynZ4_v2\bin\Debug\System.Threading.dll
+C:\Users\Jan\Documents\k006-automatyczny-magazyn-paneli\Nowy magazyn\C#_MagazynZ4v2\MagazynZ4_v2\bin\Debug\PlcOmron.pdb
+C:\Users\Jan\Documents\k006-automatyczny-magazyn-paneli\Nowy magazyn\C#_MagazynZ4v2\MagazynZ4_v2\bin\Debug\PlcVariables.pdb
+C:\Users\Jan\Documents\k006-automatyczny-magazyn-paneli\Nowy magazyn\C#_MagazynZ4v2\MagazynZ4_v2\bin\Debug\JLogger.pdb
+C:\Users\Jan\Documents\k006-automatyczny-magazyn-paneli\Nowy magazyn\C#_MagazynZ4v2\MagazynZ4_v2\bin\Debug\MahApps.Metro.pdb
+C:\Users\Jan\Documents\k006-automatyczny-magazyn-paneli\Nowy magazyn\C#_MagazynZ4v2\MagazynZ4_v2\bin\Debug\MahApps.Metro.xml
+C:\Users\Jan\Documents\k006-automatyczny-magazyn-paneli\Nowy magazyn\C#_MagazynZ4v2\MagazynZ4_v2\bin\Debug\TwinCAT.Ads.xml
+C:\Users\Jan\Documents\k006-automatyczny-magazyn-paneli\Nowy magazyn\C#_MagazynZ4v2\MagazynZ4_v2\bin\Debug\System.Threading.xml
+C:\Users\Jan\Documents\k006-automatyczny-magazyn-paneli\Nowy magazyn\C#_MagazynZ4v2\MagazynZ4_v2\obj\Debug\MagazynZ4_v2.csprojResolveAssemblyReference.cache
+C:\Users\Jan\Documents\k006-automatyczny-magazyn-paneli\Nowy magazyn\C#_MagazynZ4v2\MagazynZ4_v2\obj\Debug\View\MainWindow.g.cs
+C:\Users\Jan\Documents\k006-automatyczny-magazyn-paneli\Nowy magazyn\C#_MagazynZ4v2\MagazynZ4_v2\obj\Debug\App.g.cs
+C:\Users\Jan\Documents\k006-automatyczny-magazyn-paneli\Nowy magazyn\C#_MagazynZ4v2\MagazynZ4_v2\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Jan\Documents\k006-automatyczny-magazyn-paneli\Nowy magazyn\C#_MagazynZ4v2\MagazynZ4_v2\obj\Debug\Z4_Magazyn_MarkupCompile.cache
+C:\Users\Jan\Documents\k006-automatyczny-magazyn-paneli\Nowy magazyn\C#_MagazynZ4v2\MagazynZ4_v2\obj\Debug\Z4_Magazyn_MarkupCompile.lref
+C:\Users\Jan\Documents\k006-automatyczny-magazyn-paneli\Nowy magazyn\C#_MagazynZ4v2\MagazynZ4_v2\obj\Debug\App.baml
+C:\Users\Jan\Documents\k006-automatyczny-magazyn-paneli\Nowy magazyn\C#_MagazynZ4v2\MagazynZ4_v2\obj\Debug\View\MainWindow.baml
+C:\Users\Jan\Documents\k006-automatyczny-magazyn-paneli\Nowy magazyn\C#_MagazynZ4v2\MagazynZ4_v2\obj\Debug\UserControls\Styles\UserControlStyles.baml
+C:\Users\Jan\Documents\k006-automatyczny-magazyn-paneli\Nowy magazyn\C#_MagazynZ4v2\MagazynZ4_v2\obj\Debug\Z4_Magazyn.g.resources
+C:\Users\Jan\Documents\k006-automatyczny-magazyn-paneli\Nowy magazyn\C#_MagazynZ4v2\MagazynZ4_v2\obj\Debug\MagazynZ4.Properties.Resources.resources
+C:\Users\Jan\Documents\k006-automatyczny-magazyn-paneli\Nowy magazyn\C#_MagazynZ4v2\MagazynZ4_v2\obj\Debug\MagazynZ4_v2.csproj.GenerateResource.Cache
+C:\Users\Jan\Documents\k006-automatyczny-magazyn-paneli\Nowy magazyn\C#_MagazynZ4v2\MagazynZ4_v2\obj\Debug\Z4_Magazyn.exe
+C:\Users\Jan\Documents\k006-automatyczny-magazyn-paneli\Nowy magazyn\C#_MagazynZ4v2\MagazynZ4_v2\obj\Debug\Z4_Magazyn.pdb
+C:\Users\j.hornik\Desktop\Praca - aplikacje\Aplikacje PLC\K006 - Automatyczny magazyn paneli\Nowy magazyn\C#_MagazynZ4v2\MagazynZ4_v2\bin\Debug\Z4_Magazyn.exe.config
+C:\Users\j.hornik\Desktop\Praca - aplikacje\Aplikacje PLC\K006 - Automatyczny magazyn paneli\Nowy magazyn\C#_MagazynZ4v2\MagazynZ4_v2\bin\Debug\Z4_Magazyn.exe
+C:\Users\j.hornik\Desktop\Praca - aplikacje\Aplikacje PLC\K006 - Automatyczny magazyn paneli\Nowy magazyn\C#_MagazynZ4v2\MagazynZ4_v2\bin\Debug\Z4_Magazyn.pdb
+C:\Users\j.hornik\Desktop\Praca - aplikacje\Aplikacje PLC\K006 - Automatyczny magazyn paneli\Nowy magazyn\C#_MagazynZ4v2\MagazynZ4_v2\bin\Debug\JLogger.dll
+C:\Users\j.hornik\Desktop\Praca - aplikacje\Aplikacje PLC\K006 - Automatyczny magazyn paneli\Nowy magazyn\C#_MagazynZ4v2\MagazynZ4_v2\bin\Debug\MahApps.Metro.dll
+C:\Users\j.hornik\Desktop\Praca - aplikacje\Aplikacje PLC\K006 - Automatyczny magazyn paneli\Nowy magazyn\C#_MagazynZ4v2\MagazynZ4_v2\bin\Debug\Microsoft.Threading.Tasks.dll
+C:\Users\j.hornik\Desktop\Praca - aplikacje\Aplikacje PLC\K006 - Automatyczny magazyn paneli\Nowy magazyn\C#_MagazynZ4v2\MagazynZ4_v2\bin\Debug\Microsoft.Threading.Tasks.Extensions.Desktop.dll
+C:\Users\j.hornik\Desktop\Praca - aplikacje\Aplikacje PLC\K006 - Automatyczny magazyn paneli\Nowy magazyn\C#_MagazynZ4v2\MagazynZ4_v2\bin\Debug\Microsoft.Threading.Tasks.Extensions.dll
+C:\Users\j.hornik\Desktop\Praca - aplikacje\Aplikacje PLC\K006 - Automatyczny magazyn paneli\Nowy magazyn\C#_MagazynZ4v2\MagazynZ4_v2\bin\Debug\Oracle.DataAccess.dll
+C:\Users\j.hornik\Desktop\Praca - aplikacje\Aplikacje PLC\K006 - Automatyczny magazyn paneli\Nowy magazyn\C#_MagazynZ4v2\MagazynZ4_v2\bin\Debug\PlcOmron.dll
+C:\Users\j.hornik\Desktop\Praca - aplikacje\Aplikacje PLC\K006 - Automatyczny magazyn paneli\Nowy magazyn\C#_MagazynZ4v2\MagazynZ4_v2\bin\Debug\PlcVariables.dll
+C:\Users\j.hornik\Desktop\Praca - aplikacje\Aplikacje PLC\K006 - Automatyczny magazyn paneli\Nowy magazyn\C#_MagazynZ4v2\MagazynZ4_v2\bin\Debug\System.IO.dll
+C:\Users\j.hornik\Desktop\Praca - aplikacje\Aplikacje PLC\K006 - Automatyczny magazyn paneli\Nowy magazyn\C#_MagazynZ4v2\MagazynZ4_v2\bin\Debug\System.Runtime.dll
+C:\Users\j.hornik\Desktop\Praca - aplikacje\Aplikacje PLC\K006 - Automatyczny magazyn paneli\Nowy magazyn\C#_MagazynZ4v2\MagazynZ4_v2\bin\Debug\System.Threading.Tasks.dll
+C:\Users\j.hornik\Desktop\Praca - aplikacje\Aplikacje PLC\K006 - Automatyczny magazyn paneli\Nowy magazyn\C#_MagazynZ4v2\MagazynZ4_v2\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\j.hornik\Desktop\Praca - aplikacje\Aplikacje PLC\K006 - Automatyczny magazyn paneli\Nowy magazyn\C#_MagazynZ4v2\MagazynZ4_v2\bin\Debug\TwinCAT.Ads.dll
+C:\Users\j.hornik\Desktop\Praca - aplikacje\Aplikacje PLC\K006 - Automatyczny magazyn paneli\Nowy magazyn\C#_MagazynZ4v2\MagazynZ4_v2\bin\Debug\System.Threading.dll
+C:\Users\j.hornik\Desktop\Praca - aplikacje\Aplikacje PLC\K006 - Automatyczny magazyn paneli\Nowy magazyn\C#_MagazynZ4v2\MagazynZ4_v2\bin\Debug\JLogger.pdb
+C:\Users\j.hornik\Desktop\Praca - aplikacje\Aplikacje PLC\K006 - Automatyczny magazyn paneli\Nowy magazyn\C#_MagazynZ4v2\MagazynZ4_v2\bin\Debug\PlcOmron.pdb
+C:\Users\j.hornik\Desktop\Praca - aplikacje\Aplikacje PLC\K006 - Automatyczny magazyn paneli\Nowy magazyn\C#_MagazynZ4v2\MagazynZ4_v2\bin\Debug\PlcVariables.pdb
+C:\Users\j.hornik\Desktop\Praca - aplikacje\Aplikacje PLC\K006 - Automatyczny magazyn paneli\Nowy magazyn\C#_MagazynZ4v2\MagazynZ4_v2\bin\Debug\MahApps.Metro.pdb
+C:\Users\j.hornik\Desktop\Praca - aplikacje\Aplikacje PLC\K006 - Automatyczny magazyn paneli\Nowy magazyn\C#_MagazynZ4v2\MagazynZ4_v2\bin\Debug\MahApps.Metro.xml
+C:\Users\j.hornik\Desktop\Praca - aplikacje\Aplikacje PLC\K006 - Automatyczny magazyn paneli\Nowy magazyn\C#_MagazynZ4v2\MagazynZ4_v2\bin\Debug\Microsoft.Threading.Tasks.xml
+C:\Users\j.hornik\Desktop\Praca - aplikacje\Aplikacje PLC\K006 - Automatyczny magazyn paneli\Nowy magazyn\C#_MagazynZ4v2\MagazynZ4_v2\bin\Debug\Microsoft.Threading.Tasks.Extensions.xml
+C:\Users\j.hornik\Desktop\Praca - aplikacje\Aplikacje PLC\K006 - Automatyczny magazyn paneli\Nowy magazyn\C#_MagazynZ4v2\MagazynZ4_v2\bin\Debug\Microsoft.Threading.Tasks.Extensions.Desktop.xml
+C:\Users\j.hornik\Desktop\Praca - aplikacje\Aplikacje PLC\K006 - Automatyczny magazyn paneli\Nowy magazyn\C#_MagazynZ4v2\MagazynZ4_v2\bin\Debug\System.IO.xml
+C:\Users\j.hornik\Desktop\Praca - aplikacje\Aplikacje PLC\K006 - Automatyczny magazyn paneli\Nowy magazyn\C#_MagazynZ4v2\MagazynZ4_v2\bin\Debug\System.Runtime.xml
+C:\Users\j.hornik\Desktop\Praca - aplikacje\Aplikacje PLC\K006 - Automatyczny magazyn paneli\Nowy magazyn\C#_MagazynZ4v2\MagazynZ4_v2\bin\Debug\System.Threading.Tasks.xml
+C:\Users\j.hornik\Desktop\Praca - aplikacje\Aplikacje PLC\K006 - Automatyczny magazyn paneli\Nowy magazyn\C#_MagazynZ4v2\MagazynZ4_v2\bin\Debug\TwinCAT.Ads.xml
+C:\Users\j.hornik\Desktop\Praca - aplikacje\Aplikacje PLC\K006 - Automatyczny magazyn paneli\Nowy magazyn\C#_MagazynZ4v2\MagazynZ4_v2\bin\Debug\System.Threading.xml
+C:\Users\j.hornik\Desktop\Praca - aplikacje\Aplikacje PLC\K006 - Automatyczny magazyn paneli\Nowy magazyn\C#_MagazynZ4v2\MagazynZ4_v2\obj\Debug\MagazynZ4_v2.csproj.App.config
+C:\Users\j.hornik\Desktop\Praca - aplikacje\Aplikacje PLC\K006 - Automatyczny magazyn paneli\Nowy magazyn\C#_MagazynZ4v2\MagazynZ4_v2\obj\Debug\MagazynZ4_v2.csprojResolveAssemblyReference.cache
+C:\Users\j.hornik\Desktop\Praca - aplikacje\Aplikacje PLC\K006 - Automatyczny magazyn paneli\Nowy magazyn\C#_MagazynZ4v2\MagazynZ4_v2\obj\Debug\View\MainWindow.g.cs
+C:\Users\j.hornik\Desktop\Praca - aplikacje\Aplikacje PLC\K006 - Automatyczny magazyn paneli\Nowy magazyn\C#_MagazynZ4v2\MagazynZ4_v2\obj\Debug\App.g.cs
+C:\Users\j.hornik\Desktop\Praca - aplikacje\Aplikacje PLC\K006 - Automatyczny magazyn paneli\Nowy magazyn\C#_MagazynZ4v2\MagazynZ4_v2\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\j.hornik\Desktop\Praca - aplikacje\Aplikacje PLC\K006 - Automatyczny magazyn paneli\Nowy magazyn\C#_MagazynZ4v2\MagazynZ4_v2\obj\Debug\Z4_Magazyn_MarkupCompile.cache
+C:\Users\j.hornik\Desktop\Praca - aplikacje\Aplikacje PLC\K006 - Automatyczny magazyn paneli\Nowy magazyn\C#_MagazynZ4v2\MagazynZ4_v2\obj\Debug\Z4_Magazyn_MarkupCompile.lref
+C:\Users\j.hornik\Desktop\Praca - aplikacje\Aplikacje PLC\K006 - Automatyczny magazyn paneli\Nowy magazyn\C#_MagazynZ4v2\MagazynZ4_v2\obj\Debug\App.baml
+C:\Users\j.hornik\Desktop\Praca - aplikacje\Aplikacje PLC\K006 - Automatyczny magazyn paneli\Nowy magazyn\C#_MagazynZ4v2\MagazynZ4_v2\obj\Debug\View\MainWindow.baml
+C:\Users\j.hornik\Desktop\Praca - aplikacje\Aplikacje PLC\K006 - Automatyczny magazyn paneli\Nowy magazyn\C#_MagazynZ4v2\MagazynZ4_v2\obj\Debug\UserControls\Styles\UserControlStyles.baml
+C:\Users\j.hornik\Desktop\Praca - aplikacje\Aplikacje PLC\K006 - Automatyczny magazyn paneli\Nowy magazyn\C#_MagazynZ4v2\MagazynZ4_v2\obj\Debug\Z4_Magazyn.g.resources
+C:\Users\j.hornik\Desktop\Praca - aplikacje\Aplikacje PLC\K006 - Automatyczny magazyn paneli\Nowy magazyn\C#_MagazynZ4v2\MagazynZ4_v2\obj\Debug\MagazynZ4.Properties.Resources.resources
+C:\Users\j.hornik\Desktop\Praca - aplikacje\Aplikacje PLC\K006 - Automatyczny magazyn paneli\Nowy magazyn\C#_MagazynZ4v2\MagazynZ4_v2\obj\Debug\MagazynZ4_v2.csproj.GenerateResource.Cache
+C:\Users\j.hornik\Desktop\Praca - aplikacje\Aplikacje PLC\K006 - Automatyczny magazyn paneli\Nowy magazyn\C#_MagazynZ4v2\MagazynZ4_v2\obj\Debug\Z4_Magazyn.exe
+C:\Users\j.hornik\Desktop\Praca - aplikacje\Aplikacje PLC\K006 - Automatyczny magazyn paneli\Nowy magazyn\C#_MagazynZ4v2\MagazynZ4_v2\obj\Debug\Z4_Magazyn.pdb
+D:\Projekty\AMP\Nowy magazyn\C#_MagazynZ4v2\MagazynZ4_v2\bin\Debug\Z4_Magazyn.exe.config
+D:\Projekty\AMP\Nowy magazyn\C#_MagazynZ4v2\MagazynZ4_v2\bin\Debug\Z4_Magazyn.exe
+D:\Projekty\AMP\Nowy magazyn\C#_MagazynZ4v2\MagazynZ4_v2\bin\Debug\Z4_Magazyn.pdb
+D:\Projekty\AMP\Nowy magazyn\C#_MagazynZ4v2\MagazynZ4_v2\bin\Debug\MahApps.Metro.dll
+D:\Projekty\AMP\Nowy magazyn\C#_MagazynZ4v2\MagazynZ4_v2\bin\Debug\System.Windows.Interactivity.dll
+D:\Projekty\AMP\Nowy magazyn\C#_MagazynZ4v2\MagazynZ4_v2\bin\Debug\TwinCAT.Ads.dll
+D:\Projekty\AMP\Nowy magazyn\C#_MagazynZ4v2\MagazynZ4_v2\bin\Debug\MahApps.Metro.pdb
+D:\Projekty\AMP\Nowy magazyn\C#_MagazynZ4v2\MagazynZ4_v2\bin\Debug\MahApps.Metro.xml
+D:\Projekty\AMP\Nowy magazyn\C#_MagazynZ4v2\MagazynZ4_v2\bin\Debug\TwinCAT.Ads.xml
+D:\Projekty\AMP\Nowy magazyn\C#_MagazynZ4v2\MagazynZ4_v2\obj\Debug\MagazynZ4_v2.csprojResolveAssemblyReference.cache
+D:\Projekty\AMP\Nowy magazyn\C#_MagazynZ4v2\MagazynZ4_v2\obj\Debug\View\MainWindow.g.cs
+D:\Projekty\AMP\Nowy magazyn\C#_MagazynZ4v2\MagazynZ4_v2\obj\Debug\App.g.cs
+D:\Projekty\AMP\Nowy magazyn\C#_MagazynZ4v2\MagazynZ4_v2\obj\Debug\Z4_Magazyn_MarkupCompile.cache
+D:\Projekty\AMP\Nowy magazyn\C#_MagazynZ4v2\MagazynZ4_v2\obj\Debug\Z4_Magazyn_MarkupCompile.lref
+D:\Projekty\AMP\Nowy magazyn\C#_MagazynZ4v2\MagazynZ4_v2\obj\Debug\App.baml
+D:\Projekty\AMP\Nowy magazyn\C#_MagazynZ4v2\MagazynZ4_v2\obj\Debug\View\MainWindow.baml
+D:\Projekty\AMP\Nowy magazyn\C#_MagazynZ4v2\MagazynZ4_v2\obj\Debug\Z4_Magazyn.g.resources
+D:\Projekty\AMP\Nowy magazyn\C#_MagazynZ4v2\MagazynZ4_v2\obj\Debug\MagazynZ4.Properties.Resources.resources
+D:\Projekty\AMP\Nowy magazyn\C#_MagazynZ4v2\MagazynZ4_v2\obj\Debug\MagazynZ4_v2.csproj.GenerateResource.Cache
+D:\Projekty\AMP\Nowy magazyn\C#_MagazynZ4v2\MagazynZ4_v2\obj\Debug\Z4_Magazyn.exe
+D:\Projekty\AMP\Nowy magazyn\C#_MagazynZ4v2\MagazynZ4_v2\obj\Debug\Z4_Magazyn.pdb

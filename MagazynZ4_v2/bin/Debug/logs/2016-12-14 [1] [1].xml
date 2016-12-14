@@ -1,0 +1,96 @@
+<NewLog>
+<ID>2016/12/14-21:12:38:2889:35416674146</ID>
+<TimeStamp>2016/12/14 - 21:12:38:2889</TimeStamp>
+<Level>Error</Level>
+<Username>Jan</Username>
+<IP>192.168.1.103</IP>
+<Message>AddPlcVariableNotification</Message>
+<Tag>PLC</Tag>
+<ImgName>Error</ImgName>
+<Status>Notification</Status>
+<Exception>
+<Message>Ads-Error 0x7 : Target machine could not be found.</Message>
+<TargetSite>ThrowAdsException</TargetSite>
+<StackTrace>w TwinCAT.Ads.Internal.TcAdsDllWrapper.ThrowAdsException(AdsErrorCode adsErrorCode)
+   w TwinCAT.Ads.Internal.TcAdsSyncPort.AddDeviceNotification(String variableName, AdsStream data, Int32 offset, Int32 length, Int32 transMode, Int32 cycleTime, Int32 maxDelay, Object userData)
+   w TwinCAT.Ads.TcAdsClient.AddDeviceNotification(String variableName, AdsStream dataStream, Int32 offset, Int32 length, AdsTransMode transMode, Int32 cycleTime, Int32 maxDelay, Object userData)
+   w TwinCAT.Ads.TcAdsClient.AddDeviceNotificationEx(String variableName, AdsTransMode transMode, Int32 cycleTime, Int32 maxDelay, Object userData, Type type, Int32[] args)
+   w MagazynZ4.ModelView.AddPlcVariableNotification(PlcVariable plcVar) w D:\Projekty\AMP\Nowy magazyn\C#_MagazynZ4v2\MagazynZ4_v2\ModelView\ModelView.cs:wiersz 4557</StackTrace>
+</Exception>
+</NewLog>
+<NewLog>
+<ID>2016/12/14-21:16:09:0409:73030499569</ID>
+<TimeStamp>2016/12/14 - 21:16:09:0409</TimeStamp>
+<Level>Error</Level>
+<Username>Jan</Username>
+<IP>192.168.1.103</IP>
+<Message>CreateVariableHandle</Message>
+<Tag>PLC</Tag>
+<ImgName>Error</ImgName>
+<Status>Notification</Status>
+<Exception>
+<Message>Ads-Error 0x7 : Target machine could not be found.</Message>
+<TargetSite>ThrowAdsException</TargetSite>
+<StackTrace>w TwinCAT.Ads.Internal.TcAdsDllWrapper.ThrowAdsException(AdsErrorCode adsErrorCode)
+   w TwinCAT.Ads.TcAdsClient.CreateVariableHandle(String variableName)
+   w MagazynZ4.ModelView.CreateVariableHandle(PlcVariable plcVar) w D:\Projekty\AMP\Nowy magazyn\C#_MagazynZ4v2\MagazynZ4_v2\ModelView\ModelView.cs:wiersz 4640</StackTrace>
+</Exception>
+</NewLog>
+<NewLog>
+<ID>2016/12/14-21:16:09:0409:73030499569</ID>
+<TimeStamp>2016/12/14 - 21:16:09:0409</TimeStamp>
+<Level>Error</Level>
+<Username>Jan</Username>
+<IP>192.168.1.103</IP>
+<Message>AddPlcVariableNotification</Message>
+<Tag>PLC</Tag>
+<ImgName>Error</ImgName>
+<Status>Notification</Status>
+<Exception>
+<Message>Ads-Error 0x7 : Target machine could not be found.</Message>
+<TargetSite>ThrowAdsException</TargetSite>
+<StackTrace>w TwinCAT.Ads.Internal.TcAdsDllWrapper.ThrowAdsException(AdsErrorCode adsErrorCode)
+   w TwinCAT.Ads.Internal.TcAdsSyncPort.AddDeviceNotification(String variableName, AdsStream data, Int32 offset, Int32 length, Int32 transMode, Int32 cycleTime, Int32 maxDelay, Object userData)
+   w TwinCAT.Ads.TcAdsClient.AddDeviceNotification(String variableName, AdsStream dataStream, Int32 offset, Int32 length, AdsTransMode transMode, Int32 cycleTime, Int32 maxDelay, Object userData)
+   w TwinCAT.Ads.TcAdsClient.AddDeviceNotificationEx(String variableName, AdsTransMode transMode, Int32 cycleTime, Int32 maxDelay, Object userData, Type type, Int32[] args)
+   w MagazynZ4.ModelView.AddPlcVariableNotification(PlcVariable plcVar) w D:\Projekty\AMP\Nowy magazyn\C#_MagazynZ4v2\MagazynZ4_v2\ModelView\ModelView.cs:wiersz 4568</StackTrace>
+</Exception>
+</NewLog>
+<NewLog>
+<ID>2016/12/14-21:34:47:6899:08423771993</ID>
+<TimeStamp>2016/12/14 - 21:34:47:6899</TimeStamp>
+<Level>Error</Level>
+<Username>Jan</Username>
+<IP>192.168.1.103</IP>
+<Message>CreateVariableHandle</Message>
+<Tag>PLC</Tag>
+<ImgName>Error</ImgName>
+<Status>Notification</Status>
+<Exception>
+<Message>Ads-Error 0x7 : Target machine could not be found.</Message>
+<TargetSite>ThrowAdsException</TargetSite>
+<StackTrace>w TwinCAT.Ads.Internal.TcAdsDllWrapper.ThrowAdsException(AdsErrorCode adsErrorCode)
+   w TwinCAT.Ads.TcAdsClient.CreateVariableHandle(String variableName)
+   w MagazynZ4.ModelView.CreateVariableHandle(PlcVariable plcVar) w D:\Projekty\AMP\Nowy magazyn\C#_MagazynZ4v2\MagazynZ4_v2\ModelView\ModelView.cs:wiersz 4643</StackTrace>
+</Exception>
+</NewLog>
+<NewLog>
+<ID>2016/12/14-21:34:47:6899:00726113787</ID>
+<TimeStamp>2016/12/14 - 21:34:47:6899</TimeStamp>
+<Level>Error</Level>
+<Username>Jan</Username>
+<IP>192.168.1.103</IP>
+<Message>AddPlcVariableNotification</Message>
+<Tag>PLC</Tag>
+<ImgName>Error</ImgName>
+<Status>Notification</Status>
+<Exception>
+<Message>Ads-Error 0x7 : Target machine could not be found.</Message>
+<TargetSite>ThrowAdsException</TargetSite>
+<StackTrace>w TwinCAT.Ads.Internal.TcAdsDllWrapper.ThrowAdsException(AdsErrorCode adsErrorCode)
+   w TwinCAT.Ads.Internal.TcAdsSyncPort.AddDeviceNotification(String variableName, AdsStream data, Int32 offset, Int32 length, Int32 transMode, Int32 cycleTime, Int32 maxDelay, Object userData)
+   w TwinCAT.Ads.TcAdsClient.AddDeviceNotification(String variableName, AdsStream dataStream, Int32 offset, Int32 length, AdsTransMode transMode, Int32 cycleTime, Int32 maxDelay, Object userData)
+   w TwinCAT.Ads.TcAdsClient.AddDeviceNotificationEx(String variableName, AdsTransMode transMode, Int32 cycleTime, Int32 maxDelay, Object userData, Type type, Int32[] args)
+   w MagazynZ4.ModelView.AddPlcVariableNotification(PlcVariable plcVar) w D:\Projekty\AMP\Nowy magazyn\C#_MagazynZ4v2\MagazynZ4_v2\ModelView\ModelView.cs:wiersz 4571</StackTrace>
+</Exception>
+</NewLog>

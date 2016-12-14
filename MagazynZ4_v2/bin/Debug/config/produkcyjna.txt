@@ -1,0 +1,6 @@
+_connectionName: bpsc
+_username: plc
+_password: $plc$
+_hostname: 192.168.1.245
+_port: 1521
+_servicename: bpsc
